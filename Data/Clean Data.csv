@@ -1,0 +1,975 @@
+Customer ID,Full Name,Date of Purchase,Age,State,MTN Device,Gender,Satisfaction Rate,Customer Review,Customer Tenure in months,Subscription Plan,Unit Price,Number of Times Purchased,Total Revenue,Data Usage,Customer Churn Status,Reasons for Churn,Suffix,percentage
+CUST0032,Maryam Terry,1-Feb-25,65,Kogi,Mobile SIM Card,Male,3,Good,32,7GB Monthly Plan,3500,13,45500,13394,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0047,Bala Christian,1-Feb-25,70,Delta,Broadband MiFi,Male,3,Good,42,150GB FUP Monthly Unlimited,20000,20,400000,15863,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0076,Nura Mcneil,1-Feb-25,70,Kano,5G Broadband Router,Female,3,Good,2,30GB Monthly Broadband Plan,9000,5,45000,3669,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0076,Nura Mcneil,1-Feb-25,70,Kano,4G Router,Female,3,Good,2,165GB Monthly Plan,35000,1,35000,1438,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0086,Amina Rivas,1-Feb-25,62,Gombe,5G Broadband Router,Female,3,Good,25,150GB FUP Monthly Unlimited,20000,18,360000,6627,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0091,Ngozi Fox,1-Feb-25,31,Cross River,4G Router,Male,3,Good,49,10GB+10mins Monthly Plan,4500,12,54000,16343,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0091,Ngozi Fox,1-Feb-25,31,Cross River,Mobile SIM Card,Male,3,Good,49,2.5GB 2-Day Plan,900,13,11700,8327,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0091,Ngozi Fox,1-Feb-25,31,Cross River,Broadband MiFi,Male,3,Good,49,120GB Monthly Broadband Plan,24000,13,312000,7511,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0121,Tunde Smith,1-Feb-25,36,Kogi,Broadband MiFi,Female,3,Good,31,120GB Monthly Broadband Plan,24000,2,48000,14787,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0121,Tunde Smith,1-Feb-25,36,Kogi,Mobile SIM Card,Female,3,Good,31,1.5GB 2-Day Plan,600,6,3600,8387,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0121,Tunde Smith,1-Feb-25,36,Kogi,5G Broadband Router,Female,3,Good,31,30GB Monthly Broadband Plan,9000,13,117000,19944,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0135,Bola Anderson,1-Feb-25,25,Benue,Mobile SIM Card,Male,3,Good,31,10GB+10mins Monthly Plan,4500,4,18000,19243,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0137,Zina Singh,1-Feb-25,28,Taraba,4G Router,Female,3,Good,59,10GB+10mins Monthly Plan,4500,18,81000,374,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0151,Tega Mendez,1-Feb-25,72,Bayelsa,4G Router,Female,3,Good,53,10GB+10mins Monthly Plan,4500,11,49500,19293,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0151,Tega Mendez,1-Feb-25,72,Bayelsa,Mobile SIM Card,Female,3,Good,53,1GB+1.5mins Daily Plan,500,16,8000,14711,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0151,Tega Mendez,1-Feb-25,72,Bayelsa,5G Broadband Router,Female,3,Good,53,60GB Monthly Broadband Plan,14500,9,130500,6551,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0166,Sade Suarez,1-Feb-25,51,Borno,Mobile SIM Card,Male,3,Good,16,1GB+1.5mins Daily Plan,500,13,6500,12575,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0166,Sade Suarez,1-Feb-25,51,Borno,4G Router,Male,3,Good,16,165GB Monthly Plan,35000,3,105000,1557,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0166,Sade Suarez,1-Feb-25,51,Borno,Broadband MiFi,Male,3,Good,16,60GB Monthly Broadband Plan,14500,9,130500,10336,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0173,Maryam Soto,1-Feb-25,42,Bauchi,Mobile SIM Card,Male,3,Good,48,20GB Monthly Plan,7500,16,120000,2299,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0178,Ejiro Johnson,1-Feb-25,23,Yobe,Broadband MiFi,Male,3,Good,24,30GB Monthly Broadband Plan,9000,1,9000,17181,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0178,Ejiro Johnson,1-Feb-25,23,Yobe,Mobile SIM Card,Male,3,Good,24,500MB Daily Plan,350,12,4200,967,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0178,Ejiro Johnson,1-Feb-25,23,Yobe,5G Broadband Router,Male,3,Good,24,450GB 3-Month Broadband Plan,75000,6,450000,18409,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0180,Ese Haley,1-Feb-25,27,Sokoto,Mobile SIM Card,Male,3,Good,24,25GB Monthly Plan,9000,16,144000,11854,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0180,Ese Haley,1-Feb-25,27,Sokoto,Mobile SIM Card,Male,3,Good,24,500MB Daily Plan,350,18,6300,14663,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0184,Ngozi Webb,1-Feb-25,35,Anambra,5G Broadband Router,Male,3,Good,29,120GB Monthly Broadband Plan,24000,4,96000,9294,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0184,Ngozi Webb,1-Feb-25,35,Anambra,Broadband MiFi,Male,3,Good,29,30GB Monthly Broadband Plan,9000,10,90000,3194,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0184,Ngozi Webb,1-Feb-25,35,Anambra,Mobile SIM Card,Male,3,Good,29,65GB Monthly Plan,16000,11,176000,434,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0189,Zainab Mcguire,1-Feb-25,73,Plateau,Mobile SIM Card,Male,3,Good,40,1GB+1.5mins Daily Plan,500,14,7000,7691,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0189,Zainab Mcguire,1-Feb-25,73,Plateau,Broadband MiFi,Male,3,Good,40,150GB FUP Monthly Unlimited,20000,17,340000,12871,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0189,Zainab Mcguire,1-Feb-25,73,Plateau,5G Broadband Router,Male,3,Good,40,60GB Monthly Broadband Plan,14500,18,261000,12634,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0190,Funke Thomas,1-Feb-25,64,Ekiti,5G Broadband Router,Female,3,Good,35,300GB FUP Monthly Unlimited,30000,20,600000,57,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0190,Funke Thomas,1-Feb-25,64,Ekiti,4G Router,Female,3,Good,35,10GB+10mins Monthly Plan,4500,9,40500,635,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0190,Funke Thomas,1-Feb-25,64,Ekiti,Mobile SIM Card,Female,3,Good,35,2.5GB 2-Day Plan,900,16,14400,16183,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0197,Ibim Murphy,1-Feb-25,37,Kogi,Mobile SIM Card,Female,3,Good,57,500MB Daily Plan,350,3,1050,3295,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0201,John Mcgrath,1-Feb-25,41,Anambra,Broadband MiFi,Male,3,Good,14,60GB Monthly Broadband Plan,14500,9,130500,9445,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0201,John Mcgrath,1-Feb-25,41,Anambra,4G Router,Male,3,Good,14,65GB Monthly Plan,16000,13,208000,12855,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0207,Bola Miller,1-Feb-25,66,Bayelsa,5G Broadband Router,Male,3,Good,4,120GB Monthly Broadband Plan,24000,16,384000,6253,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0211,Alabo Clay,1-Feb-25,38,Taraba,Broadband MiFi,Female,3,Good,23,60GB Monthly Broadband Plan,14500,19,275500,1041,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0211,Alabo Clay,1-Feb-25,38,Taraba,Mobile SIM Card,Female,3,Good,23,10GB+10mins Monthly Plan,4500,8,36000,17149,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0211,Alabo Clay,1-Feb-25,38,Taraba,Mobile SIM Card,Female,3,Good,23,500MB Daily Plan,350,14,4900,5418,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0221,Zina Cochran,1-Feb-25,59,Kwara,Mobile SIM Card,Male,3,Good,22,2.5GB 2-Day Plan,900,5,4500,4607,No,Costly Data Plans,"Kwara , Nigeria",100
+CUST0232,Chinedu Hughes,1-Feb-25,54,Zamfara,4G Router,Male,3,Good,42,165GB Monthly Plan,35000,20,700000,6673,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0245,Michael Jones,1-Feb-25,73,Yobe,4G Router,Male,3,Good,19,65GB Monthly Plan,16000,7,112000,12557,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0263,Sarah Fritz,1-Feb-25,70,Osun,Broadband MiFi,Female,3,Good,51,300GB FUP Monthly Unlimited,30000,8,240000,9569,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0263,Sarah Fritz,1-Feb-25,70,Osun,4G Router,Female,3,Good,51,65GB Monthly Plan,16000,18,288000,5701,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0263,Sarah Fritz,1-Feb-25,70,Osun,Mobile SIM Card,Female,3,Good,51,20GB Monthly Plan,7500,1,7500,5193,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0264,Tunde Smith,1-Feb-25,31,Bauchi,Mobile SIM Card,Male,3,Good,25,165GB Monthly Plan,35000,9,315000,13049,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0266,Nura Hunter,1-Feb-25,73,Abuja (FCT),Broadband MiFi,Male,3,Good,14,30GB Monthly Broadband Plan,9000,5,45000,16097,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0266,Nura Hunter,1-Feb-25,73,Abuja (FCT),Mobile SIM Card,Male,3,Good,14,12.5GB Monthly Plan,5500,14,77000,18521,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0266,Nura Hunter,1-Feb-25,73,Abuja (FCT),4G Router,Male,3,Good,14,65GB Monthly Plan,16000,8,128000,1328,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0281,Tamuno Ortiz,1-Feb-25,25,Katsina,5G Broadband Router,Male,3,Good,22,450GB 3-Month Broadband Plan,75000,15,1125000,5461,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0281,Tamuno Ortiz,1-Feb-25,25,Katsina,Mobile SIM Card,Male,3,Good,22,7GB Monthly Plan,3500,17,59500,14971,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0289,Fatima Wheeler,1-Feb-25,59,Kogi,5G Broadband Router,Female,3,Good,51,150GB FUP Monthly Unlimited,20000,5,100000,16879,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0294,Ese Bailey,1-Feb-25,60,Nasarawa,Broadband MiFi,Male,3,Good,2,60GB Monthly Broadband Plan,14500,18,261000,11203,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0294,Ese Bailey,1-Feb-25,60,Nasarawa,4G Router,Male,3,Good,2,165GB Monthly Plan,35000,6,210000,3836,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0298,Grace Davis,1-Feb-25,26,Sokoto,5G Broadband Router,Male,3,Good,24,30GB Monthly Broadband Plan,9000,10,90000,14699,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0305,Sade Shepard,1-Feb-25,55,Bauchi,Mobile SIM Card,Male,3,Good,21,65GB Monthly Plan,16000,13,208000,13489,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0308,Sarah Flores,1-Feb-25,47,Imo,Broadband MiFi,Male,3,Good,18,60GB Monthly Broadband Plan,14500,7,101500,7337,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0308,Sarah Flores,1-Feb-25,47,Imo,Mobile SIM Card,Male,3,Good,18,7GB Monthly Plan,3500,1,3500,6923,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0308,Sarah Flores,1-Feb-25,47,Imo,4G Router,Male,3,Good,18,25GB Monthly Plan,9000,12,108000,3427,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0319,Fatima Powell,1-Feb-25,24,Enugu,Mobile SIM Card,Female,3,Good,56,20GB Monthly Plan,7500,20,150000,15535,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0321,Omamuzo Schwartz,1-Feb-25,22,Benue,Mobile SIM Card,Female,3,Good,29,20GB Monthly Plan,7500,2,15000,5924,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0321,Omamuzo Schwartz,1-Feb-25,22,Benue,Broadband MiFi,Female,3,Good,29,120GB Monthly Broadband Plan,24000,15,360000,18078,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0362,Sade Donaldson,1-Feb-25,27,Gombe,Broadband MiFi,Female,3,Good,6,60GB Monthly Broadband Plan,14500,10,145000,13232,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0369,Abubakar Rodriguez,1-Feb-25,69,Taraba,4G Router,Male,3,Good,14,65GB Monthly Plan,16000,16,256000,11946,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0369,Abubakar Rodriguez,1-Feb-25,69,Taraba,Broadband MiFi,Male,3,Good,14,120GB Monthly Broadband Plan,24000,10,240000,19008,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0381,David Murphy,1-Feb-25,30,Taraba,Mobile SIM Card,Male,3,Good,49,2.5GB 2-Day Plan,900,12,10800,1314,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0381,David Murphy,1-Feb-25,30,Taraba,4G Router,Male,3,Good,49,165GB Monthly Plan,35000,17,595000,975,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0386,Shehu Torres,1-Feb-25,42,Rivers,5G Broadband Router,Female,3,Good,23,150GB FUP Monthly Unlimited,20000,13,260000,18413,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0422,John Smith,1-Feb-25,47,Akwa Ibom,Broadband MiFi,Male,3,Good,24,30GB Monthly Broadband Plan,9000,8,72000,13829,No,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0429,Omamuzo Smith,1-Feb-25,32,Kwara,Mobile SIM Card,Male,3,Good,39,1.5GB 2-Day Plan,600,5,3000,82,No,Costly Data Plans,"Kwara , Nigeria",100
+CUST0433,Saidu Whitehead,1-Feb-25,49,Bauchi,4G Router,Female,3,Good,28,165GB Monthly Plan,35000,5,175000,1112,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0433,Saidu Whitehead,1-Feb-25,49,Bauchi,5G Broadband Router,Female,3,Good,28,30GB Monthly Broadband Plan,9000,2,18000,4636,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0492,Tega Kim,1-Feb-25,47,Enugu,4G Router,Male,3,Good,2,165GB Monthly Plan,35000,4,140000,13115,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0022,Shehu Ferguson,1-Feb-25,58,Kogi,Mobile SIM Card,Male,1,Poor,18,500MB Daily Plan,350,15,5250,4031,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0029,Boma Franco,1-Feb-25,44,Enugu,5G Broadband Router,Female,1,Poor,4,450GB 3-Month Broadband Plan,75000,18,1350000,1662,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0029,Boma Franco,1-Feb-25,44,Enugu,4G Router,Female,1,Poor,4,165GB Monthly Plan,35000,16,560000,17949,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0056,Tega Daniels,1-Feb-25,28,Nasarawa,Mobile SIM Card,Male,1,Poor,34,165GB Monthly Plan,35000,9,315000,15641,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0056,Tega Daniels,1-Feb-25,28,Nasarawa,Broadband MiFi,Male,1,Poor,34,300GB FUP Monthly Unlimited,30000,13,390000,12484,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0065,Kunle Shaw,1-Feb-25,75,Abia,Mobile SIM Card,Female,1,Poor,8,3.2GB 2-Day Plan,1000,18,18000,4734,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0065,Kunle Shaw,1-Feb-25,75,Abia,Broadband MiFi,Female,1,Poor,8,150GB FUP Monthly Unlimited,20000,12,240000,7803,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0067,Ejiro Smith,1-Feb-25,61,Oyo,Broadband MiFi,Female,1,Poor,18,150GB FUP Monthly Unlimited,20000,20,400000,12852,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0067,Ejiro Smith,1-Feb-25,61,Oyo,5G Broadband Router,Female,1,Poor,18,30GB Monthly Broadband Plan,9000,11,99000,1059,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0073,Ese Flowers,1-Feb-25,64,Bauchi,Mobile SIM Card,Female,1,Poor,30,165GB Monthly Plan,35000,8,280000,9059,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0075,Tega Medina,1-Feb-25,31,Kogi,5G Broadband Router,Female,1,Poor,56,60GB Monthly Broadband Plan,14500,16,232000,3137,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0075,Tega Medina,1-Feb-25,31,Kogi,4G Router,Female,1,Poor,56,10GB+10mins Monthly Plan,4500,12,54000,16953,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0075,Tega Medina,1-Feb-25,31,Kogi,Broadband MiFi,Female,1,Poor,56,120GB Monthly Broadband Plan,24000,9,216000,7383,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0080,Kunle Williams,1-Feb-25,66,Rivers,Mobile SIM Card,Female,1,Poor,2,20GB Monthly Plan,7500,13,97500,5826,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0080,Kunle Williams,1-Feb-25,66,Rivers,5G Broadband Router,Female,1,Poor,2,30GB Monthly Broadband Plan,9000,6,54000,19326,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0080,Kunle Williams,1-Feb-25,66,Rivers,4G Router,Female,1,Poor,2,165GB Monthly Plan,35000,12,420000,16649,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0085,Alabo Turner,1-Feb-25,40,Niger,Broadband MiFi,Female,1,Poor,33,150GB FUP Monthly Unlimited,20000,15,300000,831,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0085,Alabo Turner,1-Feb-25,40,Niger,5G Broadband Router,Female,1,Poor,33,1.5TB Yearly Broadband Plan,150000,20,3000000,10505,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0095,Sarah James,1-Feb-25,62,Kaduna,5G Broadband Router,Male,1,Poor,25,30GB Monthly Broadband Plan,9000,3,27000,7174,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0095,Sarah James,1-Feb-25,62,Kaduna,Mobile SIM Card,Male,1,Poor,25,7GB Monthly Plan,3500,4,14000,486,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0101,Bola Brown,1-Feb-25,35,Nasarawa,5G Broadband Router,Female,1,Poor,24,120GB Monthly Broadband Plan,24000,4,96000,503,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0101,Bola Brown,1-Feb-25,35,Nasarawa,Mobile SIM Card,Female,1,Poor,24,65GB Monthly Plan,16000,16,256000,14727,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0101,Bola Brown,1-Feb-25,35,Nasarawa,Mobile SIM Card,Female,1,Poor,24,16.5GB+10mins Monthly Plan,6500,18,117000,777,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0115,Maryam Smith,1-Feb-25,19,Taraba,Mobile SIM Card,Female,1,Poor,42,1.5GB 2-Day Plan,600,8,4800,16442,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0123,Tega Chen,1-Feb-25,36,Sokoto,4G Router,Female,1,Poor,46,165GB Monthly Plan,35000,17,595000,16548,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0123,Tega Chen,1-Feb-25,36,Sokoto,Broadband MiFi,Female,1,Poor,46,300GB FUP Monthly Unlimited,30000,4,120000,178,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0142,Bala Hood,1-Feb-25,48,Ekiti,Mobile SIM Card,Female,1,Poor,51,500MB Daily Plan,350,8,2800,19805,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0142,Bala Hood,1-Feb-25,48,Ekiti,5G Broadband Router,Female,1,Poor,51,120GB Monthly Broadband Plan,24000,3,72000,13697,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0143,Bola Brooks,1-Feb-25,27,Kebbi,Mobile SIM Card,Female,1,Poor,25,165GB Monthly Plan,35000,11,385000,12916,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0143,Bola Brooks,1-Feb-25,27,Kebbi,Broadband MiFi,Female,1,Poor,25,120GB Monthly Broadband Plan,24000,4,96000,19548,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0143,Bola Brooks,1-Feb-25,27,Kebbi,Mobile SIM Card,Female,1,Poor,25,16.5GB+10mins Monthly Plan,6500,8,52000,18387,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0145,Halima Valencia,1-Feb-25,65,Adamawa,Broadband MiFi,Female,1,Poor,25,60GB Monthly Broadband Plan,14500,3,43500,4681,No,Costly Data Plans,"Adamawa , Nigeria",100
+CUST0145,Halima Valencia,1-Feb-25,65,Adamawa,Mobile SIM Card,Female,1,Poor,25,7GB Monthly Plan,3500,20,70000,12123,No,Costly Data Plans,"Adamawa , Nigeria",100
+CUST0171,Maryam Dixon,1-Feb-25,33,Jigawa,4G Router,Male,1,Poor,42,165GB Monthly Plan,35000,7,245000,7056,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0175,Tamuno Patton,1-Feb-25,80,Cross River,Mobile SIM Card,Female,1,Poor,28,25GB Monthly Plan,9000,7,63000,1626,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0175,Tamuno Patton,1-Feb-25,80,Cross River,Mobile SIM Card,Female,1,Poor,28,1.5GB 2-Day Plan,600,13,7800,10751,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0175,Tamuno Patton,1-Feb-25,80,Cross River,Broadband MiFi,Female,1,Poor,28,120GB Monthly Broadband Plan,24000,3,72000,12704,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0215,Grace Figueroa,1-Feb-25,53,Edo,Mobile SIM Card,Female,1,Poor,26,165GB Monthly Plan,35000,12,420000,18135,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0215,Grace Figueroa,1-Feb-25,53,Edo,Mobile SIM Card,Female,1,Poor,26,16.5GB+10mins Monthly Plan,6500,6,39000,6039,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0215,Grace Figueroa,1-Feb-25,53,Edo,Broadband MiFi,Female,1,Poor,26,120GB Monthly Broadband Plan,24000,4,96000,3664,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0231,Sade Smith,1-Feb-25,80,Osun,Mobile SIM Card,Female,1,Poor,26,12.5GB Monthly Plan,5500,16,88000,6355,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0231,Sade Smith,1-Feb-25,80,Osun,Broadband MiFi,Female,1,Poor,26,30GB Monthly Broadband Plan,9000,14,126000,2098,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0231,Sade Smith,1-Feb-25,80,Osun,Mobile SIM Card,Female,1,Poor,26,65GB Monthly Plan,16000,1,16000,11165,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0233,John Benjamin,1-Feb-25,62,Nasarawa,5G Broadband Router,Male,1,Poor,7,150GB FUP Monthly Unlimited,20000,6,120000,963,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0233,John Benjamin,1-Feb-25,62,Nasarawa,Mobile SIM Card,Male,1,Poor,7,12.5GB Monthly Plan,5500,14,77000,2852,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0233,John Benjamin,1-Feb-25,62,Nasarawa,4G Router,Male,1,Poor,7,65GB Monthly Plan,16000,7,112000,5123,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0238,John Patel,1-Feb-25,69,Adamawa,Mobile SIM Card,Female,1,Poor,57,1.5GB 2-Day Plan,600,2,1200,1109,No,Costly Data Plans,"Adamawa , Nigeria",100
+CUST0244,Ifeanyi Austin,1-Feb-25,60,Nasarawa,Mobile SIM Card,Male,1,Poor,58,20GB Monthly Plan,7500,10,75000,5169,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0244,Ifeanyi Austin,1-Feb-25,60,Nasarawa,Broadband MiFi,Male,1,Poor,58,30GB Monthly Broadband Plan,9000,12,108000,18231,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0246,Fatima Foster,1-Feb-25,70,Anambra,Broadband MiFi,Male,1,Poor,35,60GB Monthly Broadband Plan,14500,2,29000,14352,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0268,Michael Peterson,1-Feb-25,45,Abuja (FCT),5G Broadband Router,Male,1,Poor,24,450GB 3-Month Broadband Plan,75000,13,975000,7095,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0283,Sarah Ballard,1-Feb-25,26,Anambra,5G Broadband Router,Female,1,Poor,40,60GB Monthly Broadband Plan,14500,15,217500,14765,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0283,Sarah Ballard,1-Feb-25,26,Anambra,Broadband MiFi,Female,1,Poor,40,150GB FUP Monthly Unlimited,20000,6,120000,2669,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0295,David Higgins,1-Feb-25,60,Niger,5G Broadband Router,Female,1,Poor,18,200GB Monthly Broadband Plan,25000,17,425000,9109,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0295,David Higgins,1-Feb-25,60,Niger,4G Router,Female,1,Poor,18,165GB Monthly Plan,35000,1,35000,14686,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0313,Maryam Hernandez,1-Feb-25,58,Yobe,5G Broadband Router,Female,1,Poor,48,120GB Monthly Broadband Plan,24000,17,408000,4762,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0313,Maryam Hernandez,1-Feb-25,58,Yobe,Mobile SIM Card,Female,1,Poor,48,1GB+1.5mins Daily Plan,500,9,4500,16247,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0330,Ibim Harrison,1-Feb-25,21,Bayelsa,5G Broadband Router,Female,1,Poor,36,120GB Monthly Broadband Plan,24000,18,432000,6041,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0330,Ibim Harrison,1-Feb-25,21,Bayelsa,4G Router,Female,1,Poor,36,25GB Monthly Plan,9000,4,36000,15352,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0330,Ibim Harrison,1-Feb-25,21,Bayelsa,Broadband MiFi,Female,1,Poor,36,300GB FUP Monthly Unlimited,30000,19,570000,686,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0366,Kunle Brady,1-Feb-25,29,Delta,5G Broadband Router,Female,1,Poor,39,450GB 3-Month Broadband Plan,75000,19,1425000,6518,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0366,Kunle Brady,1-Feb-25,29,Delta,Mobile SIM Card,Female,1,Poor,39,16.5GB+10mins Monthly Plan,6500,7,45500,279,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0368,Bola Meadows,1-Feb-25,33,Anambra,Broadband MiFi,Female,1,Poor,50,30GB Monthly Broadband Plan,9000,3,27000,3629,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0375,Nura Oconnell,1-Feb-25,53,Abuja (FCT),Mobile SIM Card,Male,1,Poor,37,12.5GB Monthly Plan,5500,14,77000,5619,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0375,Nura Oconnell,1-Feb-25,53,Abuja (FCT),Broadband MiFi,Male,1,Poor,37,150GB FUP Monthly Unlimited,20000,14,280000,4994,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0375,Nura Oconnell,1-Feb-25,53,Abuja (FCT),4G Router,Male,1,Poor,37,10GB+10mins Monthly Plan,4500,19,85500,17842,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0006,Tamuno Lewis,1-Feb-25,74,Plateau,Mobile SIM Card,Female,5,Excellent,9,7GB Monthly Plan,3500,5,17500,4425,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0006,Tamuno Lewis,1-Feb-25,74,Plateau,5G Broadband Router,Female,5,Excellent,9,1.5TB Yearly Broadband Plan,150000,2,300000,1864,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0006,Tamuno Lewis,1-Feb-25,74,Plateau,4G Router,Female,5,Excellent,9,65GB Monthly Plan,16000,6,96000,3099,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0014,Ngozi Crawford,1-Feb-25,22,Adamawa,4G Router,Male,2,Fair,6,65GB Monthly Plan,16000,1,16000,3335,No,Costly Data Plans,"Adamawa , Nigeria",100
+CUST0014,Ngozi Crawford,1-Feb-25,22,Adamawa,Mobile SIM Card,Male,2,Fair,6,20GB Monthly Plan,7500,15,112500,5341,No,Costly Data Plans,"Adamawa , Nigeria",100
+CUST0016,Kunle Ford,1-Feb-25,46,Kebbi,Broadband MiFi,Male,5,Excellent,57,300GB FUP Monthly Unlimited,30000,11,330000,4125,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0016,Kunle Ford,1-Feb-25,46,Kebbi,4G Router,Male,5,Excellent,57,10GB+10mins Monthly Plan,4500,5,22500,5349,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0016,Kunle Ford,1-Feb-25,46,Kebbi,5G Broadband Router,Male,5,Excellent,57,120GB Monthly Broadband Plan,24000,3,72000,9172,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0023,Oghene Vazquez,1-Feb-25,55,Osun,5G Broadband Router,Male,4,Very Good,2,200GB Monthly Broadband Plan,25000,13,325000,12848,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0033,Amina Mosley,1-Feb-25,75,Borno,Broadband MiFi,Male,5,Excellent,59,60GB Monthly Broadband Plan,14500,15,217500,2757,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0034,Shehu Anderson,1-Feb-25,22,Edo,5G Broadband Router,Female,4,Very Good,21,120GB Monthly Broadband Plan,24000,16,384000,16706,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0034,Shehu Anderson,1-Feb-25,22,Edo,Mobile SIM Card,Female,4,Very Good,21,65GB Monthly Plan,16000,2,32000,14993,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0040,Chinedu Ruiz,1-Feb-25,46,Kogi,Mobile SIM Card,Female,4,Very Good,36,3.2GB 2-Day Plan,1000,13,13000,592,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0040,Chinedu Ruiz,1-Feb-25,46,Kogi,Broadband MiFi,Female,4,Very Good,36,150GB FUP Monthly Unlimited,20000,19,380000,6159,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0070,Ese Obrien,1-Feb-25,18,Enugu,4G Router,Female,4,Very Good,4,10GB+10mins Monthly Plan,4500,4,18000,10289,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0098,Tega Murray,1-Feb-25,50,Delta,5G Broadband Router,Female,4,Very Good,28,1.5TB Yearly Broadband Plan,150000,12,1800000,13857,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0098,Tega Murray,1-Feb-25,50,Delta,Broadband MiFi,Female,4,Very Good,28,120GB Monthly Broadband Plan,24000,3,72000,5371,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0100,Kunle Davis,1-Feb-25,67,Gombe,Broadband MiFi,Male,5,Excellent,2,30GB Monthly Broadband Plan,9000,12,108000,4758,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0100,Kunle Davis,1-Feb-25,67,Gombe,Mobile SIM Card,Male,5,Excellent,2,7GB Monthly Plan,3500,19,66500,7688,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0104,Zina Fischer,1-Feb-25,32,Katsina,Broadband MiFi,Male,4,Very Good,20,300GB FUP Monthly Unlimited,30000,15,450000,12865,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0104,Zina Fischer,1-Feb-25,32,Katsina,Mobile SIM Card,Male,4,Very Good,20,12.5GB Monthly Plan,5500,12,66000,13618,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0111,Fatima Blevins,1-Feb-25,61,Oyo,Mobile SIM Card,Male,5,Excellent,19,3.2GB 2-Day Plan,1000,9,9000,8647,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0111,Fatima Blevins,1-Feb-25,61,Oyo,4G Router,Male,5,Excellent,19,25GB Monthly Plan,9000,12,108000,15289,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0111,Fatima Blevins,1-Feb-25,61,Oyo,Broadband MiFi,Male,5,Excellent,19,30GB Monthly Broadband Plan,9000,19,171000,8042,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0125,Halima Aguilar,1-Feb-25,23,Delta,5G Broadband Router,Female,4,Very Good,20,120GB Monthly Broadband Plan,24000,8,192000,7383,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0125,Halima Aguilar,1-Feb-25,23,Delta,Mobile SIM Card,Female,4,Very Good,20,500MB Daily Plan,350,16,5600,19149,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0125,Halima Aguilar,1-Feb-25,23,Delta,Broadband MiFi,Female,4,Very Good,20,150GB FUP Monthly Unlimited,20000,20,400000,9127,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0126,Ejiro Ware,1-Feb-25,69,Taraba,Mobile SIM Card,Male,5,Excellent,49,16.5GB+10mins Monthly Plan,6500,3,19500,1409,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0127,Ifeanyi Clayton,1-Feb-25,23,Zamfara,Mobile SIM Card,Male,2,Fair,37,12.5GB Monthly Plan,5500,17,93500,1864,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0127,Ifeanyi Clayton,1-Feb-25,23,Zamfara,Broadband MiFi,Male,2,Fair,37,60GB Monthly Broadband Plan,14500,15,217500,16183,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0127,Ifeanyi Clayton,1-Feb-25,23,Zamfara,5G Broadband Router,Male,2,Fair,37,300GB FUP Monthly Unlimited,30000,15,450000,10289,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0129,Shehu Lee,1-Feb-25,33,Kogi,Mobile SIM Card,Female,4,Very Good,58,16.5GB+10mins Monthly Plan,6500,12,78000,2703,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0129,Shehu Lee,1-Feb-25,33,Kogi,Broadband MiFi,Female,4,Very Good,58,30GB Monthly Broadband Plan,9000,18,162000,3611,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0136,John Hill,1-Feb-25,47,Ondo,Mobile SIM Card,Female,5,Excellent,59,16.5GB+10mins Monthly Plan,6500,10,65000,12992,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0136,John Hill,1-Feb-25,47,Ondo,4G Router,Female,5,Excellent,59,25GB Monthly Plan,9000,16,144000,7225,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0138,Ibim Brown,1-Feb-25,53,Plateau,Mobile SIM Card,Male,4,Very Good,22,16.5GB+10mins Monthly Plan,6500,11,71500,13109,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0140,Amaka Vang,1-Feb-25,45,Kaduna,Mobile SIM Card,Male,5,Excellent,1,12.5GB Monthly Plan,5500,18,99000,364,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0147,Chinedu Martinez,1-Feb-25,50,Plateau,Broadband MiFi,Female,4,Very Good,46,30GB Monthly Broadband Plan,9000,15,135000,18862,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0148,Ejiro Finley,1-Feb-25,50,Anambra,Mobile SIM Card,Male,4,Very Good,6,3.2GB 2-Day Plan,1000,3,3000,7111,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0148,Ejiro Finley,1-Feb-25,50,Anambra,Broadband MiFi,Male,4,Very Good,6,120GB Monthly Broadband Plan,24000,11,264000,11981,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0148,Ejiro Finley,1-Feb-25,50,Anambra,5G Broadband Router,Male,4,Very Good,6,450GB 3-Month Broadband Plan,75000,14,1050000,296,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0155,Ngozi Fowler,1-Feb-25,17,Anambra,4G Router,Female,4,Very Good,15,10GB+10mins Monthly Plan,4500,10,45000,9681,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0155,Ngozi Fowler,1-Feb-25,17,Anambra,Mobile SIM Card,Female,4,Very Good,15,12.5GB Monthly Plan,5500,3,16500,18415,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0156,Ifeanyi Garcia,1-Feb-25,34,Ekiti,Mobile SIM Card,Female,2,Fair,22,12.5GB Monthly Plan,5500,15,82500,14454,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0156,Ifeanyi Garcia,1-Feb-25,34,Ekiti,Broadband MiFi,Female,2,Fair,22,300GB FUP Monthly Unlimited,30000,2,60000,139,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0157,Ifeanyi Jimenez,1-Feb-25,18,Bayelsa,4G Router,Male,2,Fair,44,10GB+10mins Monthly Plan,4500,13,58500,4676,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0157,Ifeanyi Jimenez,1-Feb-25,18,Bayelsa,Mobile SIM Card,Male,2,Fair,44,1.5GB 2-Day Plan,600,14,8400,3768,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0162,Grace Gallegos,1-Feb-25,33,Benue,Mobile SIM Card,Female,4,Very Good,36,1.5GB 2-Day Plan,600,1,600,1699,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0162,Grace Gallegos,1-Feb-25,33,Benue,4G Router,Female,4,Very Good,36,10GB+10mins Monthly Plan,4500,9,40500,5877,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0163,Nura Jackson,1-Feb-25,52,Abuja (FCT),Broadband MiFi,Female,5,Excellent,37,120GB Monthly Broadband Plan,24000,2,48000,16461,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0163,Nura Jackson,1-Feb-25,52,Abuja (FCT),4G Router,Female,5,Excellent,37,165GB Monthly Plan,35000,14,490000,1095,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0163,Nura Jackson,1-Feb-25,52,Abuja (FCT),5G Broadband Router,Female,5,Excellent,37,150GB FUP Monthly Unlimited,20000,8,160000,14733,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0165,Oghene Allison,1-Feb-25,70,Abuja (FCT),5G Broadband Router,Male,2,Fair,51,300GB FUP Monthly Unlimited,30000,10,300000,6507,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0165,Oghene Allison,1-Feb-25,70,Abuja (FCT),Mobile SIM Card,Male,2,Fair,51,1GB+1.5mins Daily Plan,500,17,8500,11476,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0165,Oghene Allison,1-Feb-25,70,Abuja (FCT),4G Router,Male,2,Fair,51,65GB Monthly Plan,16000,14,224000,2755,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0174,Kunle Jones,1-Feb-25,17,Gombe,4G Router,Female,5,Excellent,9,10GB+10mins Monthly Plan,4500,1,4500,11768,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0174,Kunle Jones,1-Feb-25,17,Gombe,Mobile SIM Card,Female,5,Excellent,9,1GB+1.5mins Daily Plan,500,2,1000,4354,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0181,Halima Walker,1-Feb-25,35,Lagos,Broadband MiFi,Female,5,Excellent,2,60GB Monthly Broadband Plan,14500,10,145000,16988,No,Costly Data Plans,"Lagos , Nigeria",100
+CUST0181,Halima Walker,1-Feb-25,35,Lagos,4G Router,Female,5,Excellent,2,65GB Monthly Plan,16000,8,128000,4144,No,Costly Data Plans,"Lagos , Nigeria",100
+CUST0181,Halima Walker,1-Feb-25,35,Lagos,Mobile SIM Card,Female,5,Excellent,2,20GB Monthly Plan,7500,2,15000,9866,No,Costly Data Plans,"Lagos , Nigeria",100
+CUST0182,Obinna Mills,1-Feb-25,51,Katsina,Mobile SIM Card,Male,5,Excellent,59,3.2GB 2-Day Plan,1000,17,17000,11636,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0182,Obinna Mills,1-Feb-25,51,Katsina,5G Broadband Router,Male,5,Excellent,59,300GB FUP Monthly Unlimited,30000,13,390000,12762,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0187,Chinedu Brown,1-Feb-25,49,Kaduna,5G Broadband Router,Male,4,Very Good,5,150GB FUP Monthly Unlimited,20000,15,300000,902,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0193,Sarah Thomas,1-Feb-25,77,Lagos,5G Broadband Router,Female,2,Fair,59,30GB Monthly Broadband Plan,9000,19,171000,487,No,Costly Data Plans,"Lagos , Nigeria",100
+CUST0203,Ibim Castro,1-Feb-25,45,Oyo,4G Router,Female,5,Excellent,53,25GB Monthly Plan,9000,2,18000,1625,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0203,Ibim Castro,1-Feb-25,45,Oyo,Mobile SIM Card,Female,5,Excellent,53,16.5GB+10mins Monthly Plan,6500,17,110500,11446,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0205,Saidu Munoz,1-Feb-25,56,Kaduna,Mobile SIM Card,Male,5,Excellent,25,16.5GB+10mins Monthly Plan,6500,4,26000,15645,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0205,Saidu Munoz,1-Feb-25,56,Kaduna,Broadband MiFi,Male,5,Excellent,25,60GB Monthly Broadband Plan,14500,19,275500,3035,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0210,Ejiro Gill,1-Feb-25,41,Akwa Ibom,Broadband MiFi,Female,5,Excellent,53,150GB FUP Monthly Unlimited,20000,20,400000,7481,No,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0212,Michael Williams,1-Feb-25,18,Lagos,4G Router,Female,2,Fair,59,10GB+10mins Monthly Plan,4500,10,45000,12186,No,Costly Data Plans,"Lagos , Nigeria",100
+CUST0214,Ese Cooper,1-Feb-25,51,Edo,Mobile SIM Card,Female,5,Excellent,13,7GB Monthly Plan,3500,1,3500,13631,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0230,Ngozi Pierce,1-Feb-25,71,Imo,Broadband MiFi,Female,2,Fair,23,120GB Monthly Broadband Plan,24000,16,384000,16984,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0230,Ngozi Pierce,1-Feb-25,71,Imo,Mobile SIM Card,Female,2,Fair,23,1.5GB 2-Day Plan,600,16,9600,1544,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0230,Ngozi Pierce,1-Feb-25,71,Imo,5G Broadband Router,Female,2,Fair,23,200GB Monthly Broadband Plan,25000,9,225000,4856,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0249,Omamuzo Jones,1-Feb-25,66,Kano,5G Broadband Router,Female,2,Fair,11,120GB Monthly Broadband Plan,24000,12,288000,13562,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0249,Omamuzo Jones,1-Feb-25,66,Kano,Mobile SIM Card,Female,2,Fair,11,2.5GB 2-Day Plan,900,18,16200,11093,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0249,Omamuzo Jones,1-Feb-25,66,Kano,Broadband MiFi,Female,2,Fair,11,150GB FUP Monthly Unlimited,20000,1,20000,2509,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0253,Zainab Blackwell,1-Feb-25,62,Borno,Mobile SIM Card,Female,4,Very Good,57,3.2GB 2-Day Plan,1000,20,20000,3557,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0253,Zainab Blackwell,1-Feb-25,62,Borno,5G Broadband Router,Female,4,Very Good,57,150GB FUP Monthly Unlimited,20000,5,100000,16844,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0255,Ejiro Miller,1-Feb-25,66,Osun,5G Broadband Router,Female,5,Excellent,9,30GB Monthly Broadband Plan,9000,20,180000,1327,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0255,Ejiro Miller,1-Feb-25,66,Osun,Mobile SIM Card,Female,5,Excellent,9,1.5GB 2-Day Plan,600,5,3000,15156,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0265,Saidu Martinez,1-Feb-25,70,Gombe,Mobile SIM Card,Female,2,Fair,44,16.5GB+10mins Monthly Plan,6500,9,58500,1112,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0265,Saidu Martinez,1-Feb-25,70,Gombe,Broadband MiFi,Female,2,Fair,44,300GB FUP Monthly Unlimited,30000,13,390000,11574,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0265,Saidu Martinez,1-Feb-25,70,Gombe,4G Router,Female,2,Fair,44,10GB+10mins Monthly Plan,4500,4,18000,17107,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0267,Ejiro Mendoza,1-Feb-25,26,Rivers,Broadband MiFi,Female,5,Excellent,60,60GB Monthly Broadband Plan,14500,7,101500,8807,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0267,Ejiro Mendoza,1-Feb-25,26,Rivers,Mobile SIM Card,Female,5,Excellent,60,16.5GB+10mins Monthly Plan,6500,2,13000,5756,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0271,John Benson,1-Feb-25,30,Edo,5G Broadband Router,Male,2,Fair,25,30GB Monthly Broadband Plan,9000,9,81000,14031,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0271,John Benson,1-Feb-25,30,Edo,Mobile SIM Card,Male,2,Fair,25,500MB Daily Plan,350,13,4550,5781,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0284,Funke Shaffer,1-Feb-25,20,Ekiti,5G Broadband Router,Female,4,Very Good,56,300GB FUP Monthly Unlimited,30000,18,540000,19392,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0284,Funke Shaffer,1-Feb-25,20,Ekiti,Mobile SIM Card,Female,4,Very Good,56,1.5GB 2-Day Plan,600,15,9000,11837,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0284,Funke Shaffer,1-Feb-25,20,Ekiti,4G Router,Female,4,Very Good,56,165GB Monthly Plan,35000,18,630000,10493,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0287,Omamuzo Rivera,1-Feb-25,64,Osun,5G Broadband Router,Female,2,Fair,6,450GB 3-Month Broadband Plan,75000,3,225000,3801,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0287,Omamuzo Rivera,1-Feb-25,64,Osun,4G Router,Female,2,Fair,6,10GB+10mins Monthly Plan,4500,4,18000,2776,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0287,Omamuzo Rivera,1-Feb-25,64,Osun,Mobile SIM Card,Female,2,Fair,6,12.5GB Monthly Plan,5500,9,49500,12374,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0296,Ejiro Scott,1-Feb-25,46,Niger,4G Router,Male,2,Fair,43,25GB Monthly Plan,9000,11,99000,6486,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0296,Ejiro Scott,1-Feb-25,46,Niger,5G Broadband Router,Male,2,Fair,43,150GB FUP Monthly Unlimited,20000,3,60000,197,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0299,Kunle Fuller,1-Feb-25,43,Bauchi,4G Router,Male,5,Excellent,7,10GB+10mins Monthly Plan,4500,18,81000,11191,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0307,Chinedu Hoffman,1-Feb-25,67,Zamfara,Mobile SIM Card,Female,2,Fair,50,20GB Monthly Plan,7500,7,52500,13062,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0309,Alabo Guerra,1-Feb-25,34,Nasarawa,Broadband MiFi,Male,2,Fair,60,30GB Monthly Broadband Plan,9000,8,72000,14805,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0312,Ejiro Barker,1-Feb-25,29,Kano,Broadband MiFi,Female,2,Fair,56,120GB Monthly Broadband Plan,24000,6,144000,10655,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0312,Ejiro Barker,1-Feb-25,29,Kano,4G Router,Female,2,Fair,56,10GB+10mins Monthly Plan,4500,15,67500,10038,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0312,Ejiro Barker,1-Feb-25,29,Kano,5G Broadband Router,Female,2,Fair,56,30GB Monthly Broadband Plan,9000,17,153000,843,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0315,Obinna Anderson,1-Feb-25,70,Abia,4G Router,Female,2,Fair,29,10GB+10mins Monthly Plan,4500,5,22500,863,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0315,Obinna Anderson,1-Feb-25,70,Abia,Broadband MiFi,Female,2,Fair,29,120GB Monthly Broadband Plan,24000,11,264000,18346,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0315,Obinna Anderson,1-Feb-25,70,Abia,Mobile SIM Card,Female,2,Fair,29,3.2GB 2-Day Plan,1000,4,4000,11169,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0322,Alabo Jackson,1-Feb-25,27,Zamfara,Broadband MiFi,Male,4,Very Good,12,60GB Monthly Broadband Plan,14500,7,101500,11827,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0322,Alabo Jackson,1-Feb-25,27,Zamfara,Mobile SIM Card,Male,4,Very Good,12,12.5GB Monthly Plan,5500,11,60500,1849,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0329,Saidu Anderson,1-Feb-25,61,Borno,4G Router,Female,4,Very Good,34,10GB+10mins Monthly Plan,4500,1,4500,82,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0329,Saidu Anderson,1-Feb-25,61,Borno,5G Broadband Router,Female,4,Very Good,34,1.5TB Yearly Broadband Plan,150000,4,600000,12528,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0329,Saidu Anderson,1-Feb-25,61,Borno,Mobile SIM Card,Female,4,Very Good,34,500MB Daily Plan,350,14,4900,16001,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0335,Maryam Patterson,1-Feb-25,57,Plateau,Mobile SIM Card,Male,2,Fair,53,16.5GB+10mins Monthly Plan,6500,10,65000,2361,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0335,Maryam Patterson,1-Feb-25,57,Plateau,5G Broadband Router,Male,2,Fair,53,30GB Monthly Broadband Plan,9000,20,180000,13757,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0342,Omamuzo Holmes,1-Feb-25,24,Bayelsa,4G Router,Male,4,Very Good,53,65GB Monthly Plan,16000,19,304000,148,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0342,Omamuzo Holmes,1-Feb-25,24,Bayelsa,Broadband MiFi,Male,4,Very Good,53,60GB Monthly Broadband Plan,14500,20,290000,2331,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0346,Ese Harper,1-Feb-25,64,Kebbi,Mobile SIM Card,Female,2,Fair,28,7GB Monthly Plan,3500,5,17500,16807,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0348,Boma Anderson,1-Feb-25,39,Sokoto,Mobile SIM Card,Female,4,Very Good,36,2.5GB 2-Day Plan,900,8,7200,1158,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0353,Bola Patterson,1-Feb-25,59,Katsina,Mobile SIM Card,Male,4,Very Good,39,12.5GB Monthly Plan,5500,6,33000,14534,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0353,Bola Patterson,1-Feb-25,59,Katsina,Broadband MiFi,Male,4,Very Good,39,150GB FUP Monthly Unlimited,20000,12,240000,11576,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0354,Sade Brown,1-Feb-25,49,Delta,4G Router,Male,4,Very Good,11,165GB Monthly Plan,35000,5,175000,9518,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0354,Sade Brown,1-Feb-25,49,Delta,Mobile SIM Card,Male,4,Very Good,11,16.5GB+10mins Monthly Plan,6500,1,6500,17412,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0361,Obinna Andrews,1-Feb-25,58,Kebbi,Broadband MiFi,Male,4,Very Good,33,30GB Monthly Broadband Plan,9000,16,144000,7719,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0361,Obinna Andrews,1-Feb-25,58,Kebbi,5G Broadband Router,Male,4,Very Good,33,150GB FUP Monthly Unlimited,20000,12,240000,11367,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0361,Obinna Andrews,1-Feb-25,58,Kebbi,Mobile SIM Card,Male,4,Very Good,33,7GB Monthly Plan,3500,13,45500,13653,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0372,Grace Salas,1-Feb-25,30,Kaduna,4G Router,Male,5,Excellent,47,25GB Monthly Plan,9000,4,36000,464,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0372,Grace Salas,1-Feb-25,30,Kaduna,5G Broadband Router,Male,5,Excellent,47,200GB Monthly Broadband Plan,25000,8,200000,4594,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0373,Ibim Adams,1-Feb-25,41,Jigawa,4G Router,Male,5,Excellent,5,165GB Monthly Plan,35000,12,420000,3602,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0373,Ibim Adams,1-Feb-25,41,Jigawa,Broadband MiFi,Male,5,Excellent,5,150GB FUP Monthly Unlimited,20000,7,140000,9182,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0378,Funke Carlson,1-Feb-25,74,Sokoto,Mobile SIM Card,Male,2,Fair,56,2.5GB 2-Day Plan,900,3,2700,17215,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0378,Funke Carlson,1-Feb-25,74,Sokoto,5G Broadband Router,Male,2,Fair,56,450GB 3-Month Broadband Plan,75000,11,825000,17874,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0385,Sade George,1-Feb-25,34,Ekiti,5G Broadband Router,Female,5,Excellent,30,300GB FUP Monthly Unlimited,30000,4,120000,3267,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0385,Sade George,1-Feb-25,34,Ekiti,Broadband MiFi,Female,5,Excellent,30,30GB Monthly Broadband Plan,9000,19,171000,19876,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0385,Sade George,1-Feb-25,34,Ekiti,Mobile SIM Card,Female,5,Excellent,30,1.5GB 2-Day Plan,600,12,7200,8846,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0404,Maryam Buck,1-Feb-25,72,Osun,5G Broadband Router,Female,2,Fair,19,30GB Monthly Broadband Plan,9000,16,144000,19975,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0404,Maryam Buck,1-Feb-25,72,Osun,Broadband MiFi,Female,2,Fair,19,30GB Monthly Broadband Plan,9000,17,153000,7958,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0406,Zainab Soto,1-Feb-25,67,Ekiti,Mobile SIM Card,Female,4,Very Good,43,3.2GB 2-Day Plan,1000,16,16000,2488,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0409,Boma Burns,1-Feb-25,31,Jigawa,4G Router,Female,4,Very Good,21,25GB Monthly Plan,9000,6,54000,177,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0410,Grace Snyder,1-Feb-25,71,Borno,Mobile SIM Card,Female,4,Very Good,46,12.5GB Monthly Plan,5500,6,33000,11267,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0410,Grace Snyder,1-Feb-25,71,Borno,5G Broadband Router,Female,4,Very Good,46,30GB Monthly Broadband Plan,9000,16,144000,7858,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0410,Grace Snyder,1-Feb-25,71,Borno,4G Router,Female,4,Very Good,46,165GB Monthly Plan,35000,12,420000,12358,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0413,David Giles,1-Feb-25,57,Rivers,5G Broadband Router,Female,5,Excellent,43,1.5TB Yearly Broadband Plan,150000,11,1650000,1178,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0413,David Giles,1-Feb-25,57,Rivers,Broadband MiFi,Female,5,Excellent,43,60GB Monthly Broadband Plan,14500,11,159500,11429,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0414,Ngozi Williams,1-Feb-25,78,Anambra,5G Broadband Router,Male,5,Excellent,22,200GB Monthly Broadband Plan,25000,7,175000,1939,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0414,Ngozi Williams,1-Feb-25,78,Anambra,Broadband MiFi,Male,5,Excellent,22,60GB Monthly Broadband Plan,14500,3,43500,12727,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0414,Ngozi Williams,1-Feb-25,78,Anambra,4G Router,Male,5,Excellent,22,10GB+10mins Monthly Plan,4500,2,9000,5783,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0425,Amina Ortega,1-Feb-25,49,Zamfara,5G Broadband Router,Male,5,Excellent,23,30GB Monthly Broadband Plan,9000,6,54000,12845,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0425,Amina Ortega,1-Feb-25,49,Zamfara,4G Router,Male,5,Excellent,23,165GB Monthly Plan,35000,5,175000,15831,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0425,Amina Ortega,1-Feb-25,49,Zamfara,Broadband MiFi,Male,5,Excellent,23,30GB Monthly Broadband Plan,9000,10,90000,8043,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0426,Ese Mathis,1-Feb-25,26,Delta,Mobile SIM Card,Male,5,Excellent,16,1.5GB 2-Day Plan,600,19,11400,5251,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0426,Ese Mathis,1-Feb-25,26,Delta,4G Router,Male,5,Excellent,16,25GB Monthly Plan,9000,7,63000,16001,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0430,Funke Lawson,1-Feb-25,53,Edo,Mobile SIM Card,Male,2,Fair,40,12.5GB Monthly Plan,5500,11,60500,2707,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0430,Funke Lawson,1-Feb-25,53,Edo,Broadband MiFi,Male,2,Fair,40,60GB Monthly Broadband Plan,14500,13,188500,13753,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0430,Funke Lawson,1-Feb-25,53,Edo,5G Broadband Router,Male,2,Fair,40,450GB 3-Month Broadband Plan,75000,9,675000,14735,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0431,Kunle Cooper,1-Feb-25,28,Oyo,Broadband MiFi,Male,4,Very Good,22,120GB Monthly Broadband Plan,24000,10,240000,12412,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0431,Kunle Cooper,1-Feb-25,28,Oyo,Mobile SIM Card,Male,4,Very Good,22,20GB Monthly Plan,7500,5,37500,13442,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0431,Kunle Cooper,1-Feb-25,28,Oyo,4G Router,Male,4,Very Good,22,65GB Monthly Plan,16000,9,144000,11631,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0435,Michael Santana,1-Feb-25,50,Ondo,Mobile SIM Card,Male,4,Very Good,34,3.2GB 2-Day Plan,1000,1,1000,17753,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0451,Sade Baker,1-Feb-25,18,Ekiti,Mobile SIM Card,Female,2,Fair,23,12.5GB Monthly Plan,5500,8,44000,2324,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0451,Sade Baker,1-Feb-25,18,Ekiti,4G Router,Female,2,Fair,23,10GB+10mins Monthly Plan,4500,16,72000,11262,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0463,Grace Bell,1-Feb-25,74,Borno,4G Router,Male,4,Very Good,45,65GB Monthly Plan,16000,14,224000,12052,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0463,Grace Bell,1-Feb-25,74,Borno,5G Broadband Router,Male,4,Very Good,45,150GB FUP Monthly Unlimited,20000,19,380000,2461,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0463,Grace Bell,1-Feb-25,74,Borno,Mobile SIM Card,Male,4,Very Good,45,1GB+1.5mins Daily Plan,500,5,2500,854,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0466,Alabo Escobar,1-Feb-25,59,Jigawa,Mobile SIM Card,Female,2,Fair,54,12.5GB Monthly Plan,5500,11,60500,3022,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0466,Alabo Escobar,1-Feb-25,59,Jigawa,5G Broadband Router,Female,2,Fair,54,150GB FUP Monthly Unlimited,20000,20,400000,16006,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0473,Amaka Jackson,1-Feb-25,54,Kogi,4G Router,Female,2,Fair,6,165GB Monthly Plan,35000,18,630000,19229,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0482,Bala Gibson,1-Feb-25,58,Katsina,4G Router,Male,4,Very Good,48,10GB+10mins Monthly Plan,4500,3,13500,6618,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0491,Funke Smith,1-Feb-25,30,Plateau,Broadband MiFi,Female,5,Excellent,29,150GB FUP Monthly Unlimited,20000,6,120000,3997,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0491,Funke Smith,1-Feb-25,30,Plateau,Mobile SIM Card,Female,5,Excellent,29,500MB Daily Plan,350,6,2100,17713,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0005,Nura Mann,1-Jan-25,57,Oyo,4G Router,Male,3,Good,53,25GB Monthly Plan,9000,16,144000,4292,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0008,Ifeanyi Park,1-Jan-25,53,Kwara,Broadband MiFi,Male,3,Good,30,300GB FUP Monthly Unlimited,30000,17,510000,16841,No,Costly Data Plans,"Kwara , Nigeria",100
+CUST0009,Bala Robbins,1-Jan-25,35,Gombe,Broadband MiFi,Male,5,Excellent,35,300GB FUP Monthly Unlimited,30000,10,300000,17581,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0028,Obinna Sanchez,1-Jan-25,19,Rivers,Mobile SIM Card,Male,4,Very Good,31,10GB+10mins Monthly Plan,4500,5,22500,8023,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0028,Obinna Sanchez,1-Jan-25,19,Rivers,Mobile SIM Card,Male,4,Very Good,31,2.5GB 2-Day Plan,900,4,3600,17859,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0036,Ifeanyi Randall,1-Jan-25,36,Abia,Mobile SIM Card,Male,3,Good,38,500MB Daily Plan,350,8,2800,1566,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0036,Ifeanyi Randall,1-Jan-25,36,Abia,5G Broadband Router,Male,3,Good,38,150GB FUP Monthly Unlimited,20000,10,200000,13959,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0045,Alabo Thompson,1-Jan-25,72,Abia,4G Router,Female,5,Excellent,20,10GB+10mins Monthly Plan,4500,3,13500,533,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0046,Amina Wright,1-Jan-25,46,Enugu,Mobile SIM Card,Male,4,Very Good,11,500MB Daily Plan,350,10,3500,5798,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0046,Amina Wright,1-Jan-25,46,Enugu,4G Router,Male,4,Very Good,11,165GB Monthly Plan,35000,8,280000,147,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0046,Amina Wright,1-Jan-25,46,Enugu,Broadband MiFi,Male,4,Very Good,11,300GB FUP Monthly Unlimited,30000,19,570000,15767,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0059,Halima Williams,1-Jan-25,68,Enugu,4G Router,Male,5,Excellent,12,10GB+10mins Monthly Plan,4500,9,40500,925,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0059,Halima Williams,1-Jan-25,68,Enugu,Mobile SIM Card,Male,5,Excellent,12,12.5GB Monthly Plan,5500,1,5500,5144,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0059,Halima Williams,1-Jan-25,68,Enugu,Broadband MiFi,Male,5,Excellent,12,60GB Monthly Broadband Plan,14500,18,261000,18029,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0061,Abubakar Ewing,1-Jan-25,53,Kano,Broadband MiFi,Female,5,Excellent,18,300GB FUP Monthly Unlimited,30000,8,240000,15526,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0061,Abubakar Ewing,1-Jan-25,53,Kano,5G Broadband Router,Female,5,Excellent,18,200GB Monthly Broadband Plan,25000,7,175000,4419,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0061,Abubakar Ewing,1-Jan-25,53,Kano,4G Router,Female,5,Excellent,18,25GB Monthly Plan,9000,5,45000,13571,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0064,Ejiro Ford,1-Jan-25,27,Kebbi,5G Broadband Router,Male,4,Very Good,17,200GB Monthly Broadband Plan,25000,8,200000,2212,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0064,Ejiro Ford,1-Jan-25,27,Kebbi,Mobile SIM Card,Male,4,Very Good,17,12.5GB Monthly Plan,5500,18,99000,549,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0064,Ejiro Ford,1-Jan-25,27,Kebbi,4G Router,Male,4,Very Good,17,25GB Monthly Plan,9000,8,72000,18309,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0066,David Schneider,1-Jan-25,69,Plateau,Broadband MiFi,Female,4,Very Good,42,300GB FUP Monthly Unlimited,30000,15,450000,4385,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0066,David Schneider,1-Jan-25,69,Plateau,5G Broadband Router,Female,4,Very Good,42,60GB Monthly Broadband Plan,14500,4,58000,17116,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0072,Ngozi Hernandez,1-Jan-25,78,Nasarawa,4G Router,Male,3,Good,58,25GB Monthly Plan,9000,19,171000,12505,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0074,Ibim Marshall,1-Jan-25,59,Sokoto,5G Broadband Router,Female,3,Good,27,1.5TB Yearly Broadband Plan,150000,3,450000,1389,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0074,Ibim Marshall,1-Jan-25,59,Sokoto,4G Router,Female,3,Good,27,65GB Monthly Plan,16000,12,192000,8666,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0074,Ibim Marshall,1-Jan-25,59,Sokoto,Broadband MiFi,Female,3,Good,27,150GB FUP Monthly Unlimited,20000,19,380000,1115,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0078,Alabo Kelly,1-Jan-25,69,Akwa Ibom,Mobile SIM Card,Male,3,Good,49,1GB+1.5mins Daily Plan,500,13,6500,956,No,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0078,Alabo Kelly,1-Jan-25,69,Akwa Ibom,5G Broadband Router,Male,3,Good,49,30GB Monthly Broadband Plan,9000,10,90000,203,No,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0079,Fatima Pennington,1-Jan-25,33,Edo,Mobile SIM Card,Female,1,Poor,21,165GB Monthly Plan,35000,8,280000,10675,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0079,Fatima Pennington,1-Jan-25,33,Edo,Broadband MiFi,Female,1,Poor,21,120GB Monthly Broadband Plan,24000,12,288000,11197,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0087,Omamuzo Guerrero,1-Jan-25,52,Edo,5G Broadband Router,Male,5,Excellent,22,450GB 3-Month Broadband Plan,75000,3,225000,2623,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0087,Omamuzo Guerrero,1-Jan-25,52,Edo,Mobile SIM Card,Male,5,Excellent,22,1GB+1.5mins Daily Plan,500,11,5500,112,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0092,Chinedu Burke,1-Jan-25,63,Osun,Broadband MiFi,Male,3,Good,21,300GB FUP Monthly Unlimited,30000,16,480000,18352,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0105,Amaka Garcia,1-Jan-25,39,Borno,Mobile SIM Card,Female,1,Poor,33,25GB Monthly Plan,9000,8,72000,18698,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0105,Amaka Garcia,1-Jan-25,39,Borno,Broadband MiFi,Female,1,Poor,33,300GB FUP Monthly Unlimited,30000,17,510000,18952,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0119,Omamuzo Terry,1-Jan-25,66,Ekiti,5G Broadband Router,Male,3,Good,19,1.5TB Yearly Broadband Plan,150000,16,2400000,13137,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0130,Tamuno Greer,1-Jan-25,32,Osun,Mobile SIM Card,Male,3,Good,49,500MB Daily Plan,350,12,4200,4988,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0130,Tamuno Greer,1-Jan-25,32,Osun,5G Broadband Router,Male,3,Good,49,300GB FUP Monthly Unlimited,30000,4,120000,5549,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0130,Tamuno Greer,1-Jan-25,32,Osun,4G Router,Male,3,Good,49,65GB Monthly Plan,16000,14,224000,16199,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0131,Funke Hart,1-Jan-25,46,Ondo,Broadband MiFi,Male,4,Very Good,7,60GB Monthly Broadband Plan,14500,18,261000,8807,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0131,Funke Hart,1-Jan-25,46,Ondo,Mobile SIM Card,Male,4,Very Good,7,500MB Daily Plan,350,2,700,151,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0131,Funke Hart,1-Jan-25,46,Ondo,5G Broadband Router,Male,4,Very Good,7,300GB FUP Monthly Unlimited,30000,10,300000,10103,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0144,Fatima Wheeler,1-Jan-25,76,Akwa Ibom,Broadband MiFi,Male,3,Good,60,30GB Monthly Broadband Plan,9000,19,171000,19231,No,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0144,Fatima Wheeler,1-Jan-25,76,Akwa Ibom,Mobile SIM Card,Male,3,Good,60,1.5GB 2-Day Plan,600,13,7800,15057,No,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0144,Fatima Wheeler,1-Jan-25,76,Akwa Ibom,4G Router,Male,3,Good,60,65GB Monthly Plan,16000,19,304000,6021,No,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0160,Oghene Diaz,1-Jan-25,74,Enugu,5G Broadband Router,Female,2,Fair,59,150GB FUP Monthly Unlimited,20000,5,100000,3702,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0164,Maryam Diaz,1-Jan-25,20,Nasarawa,Mobile SIM Card,Female,4,Very Good,23,10GB+10mins Monthly Plan,4500,19,85500,16224,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0167,Ejiro Thomas,1-Jan-25,74,Yobe,5G Broadband Router,Female,1,Poor,38,450GB 3-Month Broadband Plan,75000,14,1050000,4396,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0167,Ejiro Thomas,1-Jan-25,74,Yobe,Broadband MiFi,Female,1,Poor,38,150GB FUP Monthly Unlimited,20000,11,220000,992,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0170,Amaka Whitaker,1-Jan-25,44,Bauchi,4G Router,Female,3,Good,1,65GB Monthly Plan,16000,3,48000,4617,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0170,Amaka Whitaker,1-Jan-25,44,Bauchi,Mobile SIM Card,Female,3,Good,1,3.2GB 2-Day Plan,1000,12,12000,2109,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0172,Obinna Miller,1-Jan-25,68,Nasarawa,Mobile SIM Card,Male,2,Fair,6,7GB Monthly Plan,3500,8,28000,15832,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0172,Obinna Miller,1-Jan-25,68,Nasarawa,4G Router,Male,2,Fair,6,25GB Monthly Plan,9000,8,72000,1291,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0172,Obinna Miller,1-Jan-25,68,Nasarawa,5G Broadband Router,Male,2,Fair,6,120GB Monthly Broadband Plan,24000,1,24000,1559,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0177,Amina Johnson,1-Jan-25,63,Borno,5G Broadband Router,Female,1,Poor,47,150GB FUP Monthly Unlimited,20000,19,380000,5296,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0177,Amina Johnson,1-Jan-25,63,Borno,Mobile SIM Card,Female,1,Poor,47,3.2GB 2-Day Plan,1000,17,17000,9948,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0188,Sade Cruz,1-Jan-25,37,Kwara,5G Broadband Router,Female,4,Very Good,32,60GB Monthly Broadband Plan,14500,9,130500,18171,No,Costly Data Plans,"Kwara , Nigeria",100
+CUST0196,Halima Burns,1-Jan-25,60,Niger,4G Router,Male,3,Good,41,65GB Monthly Plan,16000,4,64000,7042,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0196,Halima Burns,1-Jan-25,60,Niger,Broadband MiFi,Male,3,Good,41,30GB Monthly Broadband Plan,9000,15,135000,1011,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0198,Bola Potter,1-Jan-25,53,Kano,4G Router,Female,1,Poor,17,65GB Monthly Plan,16000,3,48000,10964,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0198,Bola Potter,1-Jan-25,53,Kano,5G Broadband Router,Female,1,Poor,17,200GB Monthly Broadband Plan,25000,20,500000,11901,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0200,Saidu Tucker,1-Jan-25,52,Abia,4G Router,Male,4,Very Good,7,25GB Monthly Plan,9000,3,27000,126,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0200,Saidu Tucker,1-Jan-25,52,Abia,Broadband MiFi,Male,4,Very Good,7,300GB FUP Monthly Unlimited,30000,20,600000,16487,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0218,Zina Dawson,1-Jan-25,34,Niger,5G Broadband Router,Male,4,Very Good,50,30GB Monthly Broadband Plan,9000,9,81000,144,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0219,Fatima Scott,1-Jan-25,37,Abuja (FCT),Mobile SIM Card,Female,2,Fair,51,12.5GB Monthly Plan,5500,2,11000,7697,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0219,Fatima Scott,1-Jan-25,37,Abuja (FCT),4G Router,Female,2,Fair,51,10GB+10mins Monthly Plan,4500,1,4500,14627,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0219,Fatima Scott,1-Jan-25,37,Abuja (FCT),5G Broadband Router,Female,2,Fair,51,200GB Monthly Broadband Plan,25000,17,425000,15149,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0224,Sarah Stevens,1-Jan-25,50,Borno,5G Broadband Router,Female,5,Excellent,54,150GB FUP Monthly Unlimited,20000,16,320000,15706,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0226,Grace Carter,1-Jan-25,35,Katsina,5G Broadband Router,Male,3,Good,47,1.5TB Yearly Broadband Plan,150000,6,900000,1049,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0226,Grace Carter,1-Jan-25,35,Katsina,4G Router,Male,3,Good,47,65GB Monthly Plan,16000,12,192000,17052,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0227,Ese Stewart,1-Jan-25,70,Delta,4G Router,Male,1,Poor,55,165GB Monthly Plan,35000,9,315000,19104,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0227,Ese Stewart,1-Jan-25,70,Delta,Mobile SIM Card,Male,1,Poor,55,3.2GB 2-Day Plan,1000,11,11000,7484,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0227,Ese Stewart,1-Jan-25,70,Delta,5G Broadband Router,Male,1,Poor,55,300GB FUP Monthly Unlimited,30000,13,390000,2321,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0235,Michael Savage,1-Jan-25,33,Yobe,Mobile SIM Card,Male,5,Excellent,34,1.5GB 2-Day Plan,600,5,3000,14623,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0235,Michael Savage,1-Jan-25,33,Yobe,5G Broadband Router,Male,5,Excellent,34,150GB FUP Monthly Unlimited,20000,20,400000,7779,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0235,Michael Savage,1-Jan-25,33,Yobe,Broadband MiFi,Male,5,Excellent,34,120GB Monthly Broadband Plan,24000,17,408000,1766,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0240,Omamuzo Roberts,1-Jan-25,46,Zamfara,5G Broadband Router,Female,4,Very Good,45,30GB Monthly Broadband Plan,9000,7,63000,14886,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0240,Omamuzo Roberts,1-Jan-25,46,Zamfara,Mobile SIM Card,Female,4,Very Good,45,12.5GB Monthly Plan,5500,12,66000,16608,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0240,Omamuzo Roberts,1-Jan-25,46,Zamfara,Broadband MiFi,Female,4,Very Good,45,120GB Monthly Broadband Plan,24000,20,480000,10955,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0241,Bala Calhoun,1-Jan-25,40,Cross River,Broadband MiFi,Female,2,Fair,12,60GB Monthly Broadband Plan,14500,9,130500,5618,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0241,Bala Calhoun,1-Jan-25,40,Cross River,4G Router,Female,2,Fair,12,10GB+10mins Monthly Plan,4500,9,40500,3261,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0241,Bala Calhoun,1-Jan-25,40,Cross River,Mobile SIM Card,Female,2,Fair,12,2.5GB 2-Day Plan,900,5,4500,6645,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0251,Zina Nicholson,1-Jan-25,25,Cross River,5G Broadband Router,Male,2,Fair,17,300GB FUP Monthly Unlimited,30000,8,240000,13442,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0251,Zina Nicholson,1-Jan-25,25,Cross River,4G Router,Male,2,Fair,17,65GB Monthly Plan,16000,3,48000,5738,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0254,David Rodriguez,1-Jan-25,41,Edo,Broadband MiFi,Male,1,Poor,47,120GB Monthly Broadband Plan,24000,2,48000,4295,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0254,David Rodriguez,1-Jan-25,41,Edo,5G Broadband Router,Male,1,Poor,47,120GB Monthly Broadband Plan,24000,18,432000,10892,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0254,David Rodriguez,1-Jan-25,41,Edo,4G Router,Male,1,Poor,47,165GB Monthly Plan,35000,5,175000,13095,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0269,Tamuno Diaz,1-Jan-25,41,Bauchi,5G Broadband Router,Male,1,Poor,48,60GB Monthly Broadband Plan,14500,7,101500,12147,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0269,Tamuno Diaz,1-Jan-25,41,Bauchi,4G Router,Male,1,Poor,48,165GB Monthly Plan,35000,19,665000,18598,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0269,Tamuno Diaz,1-Jan-25,41,Bauchi,Mobile SIM Card,Male,1,Poor,48,2.5GB 2-Day Plan,900,14,12600,5259,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0270,Michael Rodriguez,1-Jan-25,29,Kaduna,5G Broadband Router,Female,5,Excellent,22,450GB 3-Month Broadband Plan,75000,8,600000,11285,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0270,Michael Rodriguez,1-Jan-25,29,Kaduna,Mobile SIM Card,Female,5,Excellent,22,7GB Monthly Plan,3500,15,52500,19227,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0270,Michael Rodriguez,1-Jan-25,29,Kaduna,Mobile SIM Card,Female,5,Excellent,22,165GB Monthly Plan,35000,1,35000,17936,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0275,Zina Gallegos,1-Jan-25,31,Bauchi,Broadband MiFi,Female,1,Poor,21,300GB FUP Monthly Unlimited,30000,9,270000,12275,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0275,Zina Gallegos,1-Jan-25,31,Bauchi,Mobile SIM Card,Female,1,Poor,21,10GB+10mins Monthly Plan,4500,8,36000,10994,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0282,Alabo Chavez,1-Jan-25,68,Abuja (FCT),5G Broadband Router,Male,2,Fair,55,60GB Monthly Broadband Plan,14500,4,58000,338,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0282,Alabo Chavez,1-Jan-25,68,Abuja (FCT),Mobile SIM Card,Male,2,Fair,55,3.2GB 2-Day Plan,1000,16,16000,1323,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0282,Alabo Chavez,1-Jan-25,68,Abuja (FCT),Broadband MiFi,Male,2,Fair,55,120GB Monthly Broadband Plan,24000,13,312000,1124,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0285,Maryam Gates,1-Jan-25,60,Taraba,5G Broadband Router,Male,4,Very Good,52,120GB Monthly Broadband Plan,24000,17,408000,261,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0285,Maryam Gates,1-Jan-25,60,Taraba,Broadband MiFi,Male,4,Very Good,52,150GB FUP Monthly Unlimited,20000,16,320000,6911,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0286,David George,1-Jan-25,17,Yobe,4G Router,Female,4,Very Good,20,10GB+10mins Monthly Plan,4500,18,81000,8264,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0286,David George,1-Jan-25,17,Yobe,Mobile SIM Card,Female,4,Very Good,20,12.5GB Monthly Plan,5500,6,33000,7925,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0291,Halima Mahoney,1-Jan-25,20,Benue,Mobile SIM Card,Female,5,Excellent,48,20GB Monthly Plan,7500,10,75000,13645,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0303,Maryam Walker,1-Jan-25,27,Kebbi,Mobile SIM Card,Male,3,Good,47,3.2GB 2-Day Plan,1000,10,10000,11925,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0310,Obinna Ballard,1-Jan-25,52,Lagos,5G Broadband Router,Female,3,Good,45,60GB Monthly Broadband Plan,14500,7,101500,14813,No,Costly Data Plans,"Lagos , Nigeria",100
+CUST0311,Fatima Freeman,1-Jan-25,49,Taraba,Broadband MiFi,Male,4,Very Good,45,30GB Monthly Broadband Plan,9000,20,180000,5716,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0311,Fatima Freeman,1-Jan-25,49,Taraba,4G Router,Male,4,Very Good,45,25GB Monthly Plan,9000,1,9000,1109,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0311,Fatima Freeman,1-Jan-25,49,Taraba,Mobile SIM Card,Male,4,Very Good,45,3.2GB 2-Day Plan,1000,9,9000,7803,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0318,John Martinez,1-Jan-25,33,Abuja (FCT),5G Broadband Router,Male,4,Very Good,15,450GB 3-Month Broadband Plan,75000,7,525000,449,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0320,Omamuzo Perez,1-Jan-25,56,Kebbi,4G Router,Male,4,Very Good,34,165GB Monthly Plan,35000,2,70000,19677,No,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0325,Tunde Terry,1-Jan-25,74,Yobe,4G Router,Female,5,Excellent,35,165GB Monthly Plan,35000,15,525000,9102,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0333,Omamuzo Miller,1-Jan-25,37,Jigawa,Broadband MiFi,Male,3,Good,39,60GB Monthly Broadband Plan,14500,8,116000,1782,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0333,Omamuzo Miller,1-Jan-25,37,Jigawa,4G Router,Male,3,Good,39,25GB Monthly Plan,9000,10,90000,9066,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0334,Fatima Carter,1-Jan-25,54,Enugu,Broadband MiFi,Male,2,Fair,24,120GB Monthly Broadband Plan,24000,11,264000,3124,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0334,Fatima Carter,1-Jan-25,54,Enugu,4G Router,Male,2,Fair,24,165GB Monthly Plan,35000,17,595000,14662,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0337,Ifeanyi Cunningham,1-Jan-25,50,Plateau,Broadband MiFi,Male,1,Poor,18,120GB Monthly Broadband Plan,24000,5,120000,6404,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0337,Ifeanyi Cunningham,1-Jan-25,50,Plateau,Mobile SIM Card,Male,1,Poor,18,1GB+1.5mins Daily Plan,500,6,3000,11503,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0337,Ifeanyi Cunningham,1-Jan-25,50,Plateau,4G Router,Male,1,Poor,18,65GB Monthly Plan,16000,11,176000,6262,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0347,Abubakar Mcknight,1-Jan-25,32,Borno,Mobile SIM Card,Male,2,Fair,5,3.2GB 2-Day Plan,1000,14,14000,2788,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0347,Abubakar Mcknight,1-Jan-25,32,Borno,Broadband MiFi,Male,2,Fair,5,60GB Monthly Broadband Plan,14500,20,290000,17877,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0349,Michael Smith,1-Jan-25,50,Kogi,Broadband MiFi,Female,5,Excellent,3,60GB Monthly Broadband Plan,14500,3,43500,19237,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0349,Michael Smith,1-Jan-25,50,Kogi,5G Broadband Router,Female,5,Excellent,3,300GB FUP Monthly Unlimited,30000,17,510000,14617,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0350,Zainab Compton,1-Jan-25,75,Bauchi,Broadband MiFi,Male,2,Fair,34,120GB Monthly Broadband Plan,24000,11,264000,1103,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0350,Zainab Compton,1-Jan-25,75,Bauchi,5G Broadband Router,Male,2,Fair,34,30GB Monthly Broadband Plan,9000,17,153000,9404,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0350,Zainab Compton,1-Jan-25,75,Bauchi,4G Router,Male,2,Fair,34,165GB Monthly Plan,35000,11,385000,11501,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0351,Ibim Mills,1-Jan-25,61,Cross River,5G Broadband Router,Female,5,Excellent,11,300GB FUP Monthly Unlimited,30000,10,300000,11479,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0351,Ibim Mills,1-Jan-25,61,Cross River,Broadband MiFi,Female,5,Excellent,11,120GB Monthly Broadband Plan,24000,16,384000,595,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0351,Ibim Mills,1-Jan-25,61,Cross River,4G Router,Female,5,Excellent,11,65GB Monthly Plan,16000,3,48000,258,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0355,Abubakar Martin,1-Jan-25,73,Jigawa,5G Broadband Router,Female,1,Poor,34,200GB Monthly Broadband Plan,25000,4,100000,5443,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0355,Abubakar Martin,1-Jan-25,73,Jigawa,4G Router,Female,1,Poor,34,25GB Monthly Plan,9000,13,117000,13104,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0355,Abubakar Martin,1-Jan-25,73,Jigawa,Mobile SIM Card,Female,1,Poor,34,12.5GB Monthly Plan,5500,8,44000,15474,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0356,Bala Gibson,1-Jan-25,59,Enugu,Mobile SIM Card,Female,1,Poor,36,3.2GB 2-Day Plan,1000,15,15000,10529,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0357,Oghene Winters,1-Jan-25,44,Cross River,4G Router,Female,1,Poor,13,65GB Monthly Plan,16000,4,64000,14176,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0365,Kunle Myers,1-Jan-25,20,Plateau,Broadband MiFi,Female,4,Very Good,42,30GB Monthly Broadband Plan,9000,2,18000,3486,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0365,Kunle Myers,1-Jan-25,20,Plateau,Mobile SIM Card,Female,4,Very Good,42,1GB+1.5mins Daily Plan,500,4,2000,16424,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0365,Kunle Myers,1-Jan-25,20,Plateau,5G Broadband Router,Female,4,Very Good,42,1.5TB Yearly Broadband Plan,150000,19,2850000,12244,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0370,Oghene Bush,1-Jan-25,69,Lagos,5G Broadband Router,Male,5,Excellent,13,1.5TB Yearly Broadband Plan,150000,7,1050000,15418,No,Costly Data Plans,"Lagos , Nigeria",100
+CUST0370,Oghene Bush,1-Jan-25,69,Lagos,Mobile SIM Card,Male,5,Excellent,13,1GB+1.5mins Daily Plan,500,4,2000,1109,No,Costly Data Plans,"Lagos , Nigeria",100
+CUST0370,Oghene Bush,1-Jan-25,69,Lagos,Broadband MiFi,Male,5,Excellent,13,150GB FUP Monthly Unlimited,20000,16,320000,13721,No,Costly Data Plans,"Lagos , Nigeria",100
+CUST0387,Grace Walsh,1-Jan-25,34,Sokoto,5G Broadband Router,Female,5,Excellent,10,120GB Monthly Broadband Plan,24000,19,456000,19394,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0387,Grace Walsh,1-Jan-25,34,Sokoto,4G Router,Female,5,Excellent,10,10GB+10mins Monthly Plan,4500,15,67500,16002,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0389,Bala Dunn,1-Jan-25,44,Akwa Ibom,Broadband MiFi,Male,5,Excellent,2,150GB FUP Monthly Unlimited,20000,20,400000,9835,No,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0389,Bala Dunn,1-Jan-25,44,Akwa Ibom,5G Broadband Router,Male,5,Excellent,2,30GB Monthly Broadband Plan,9000,12,108000,18174,No,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0389,Bala Dunn,1-Jan-25,44,Akwa Ibom,4G Router,Male,5,Excellent,2,165GB Monthly Plan,35000,14,490000,3002,No,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0393,Ibim Ballard,1-Jan-25,38,Yobe,5G Broadband Router,Male,3,Good,2,1.5TB Yearly Broadband Plan,150000,9,1350000,11333,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0397,Sarah Perry,1-Jan-25,30,Kogi,Mobile SIM Card,Female,1,Poor,59,7GB Monthly Plan,3500,12,42000,6266,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0399,Nura Delgado,1-Jan-25,55,Borno,Broadband MiFi,Male,4,Very Good,9,30GB Monthly Broadband Plan,9000,14,126000,15505,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0402,Sarah Oconnor,1-Jan-25,43,Benue,Mobile SIM Card,Female,1,Poor,11,12.5GB Monthly Plan,5500,4,22000,13487,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0402,Sarah Oconnor,1-Jan-25,43,Benue,4G Router,Female,1,Poor,11,10GB+10mins Monthly Plan,4500,13,58500,16703,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0402,Sarah Oconnor,1-Jan-25,43,Benue,Broadband MiFi,Female,1,Poor,11,60GB Monthly Broadband Plan,14500,8,116000,4325,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0407,Grace Thompson,1-Jan-25,45,Borno,4G Router,Male,1,Poor,7,165GB Monthly Plan,35000,11,385000,12111,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0411,Abubakar Lane,1-Jan-25,57,Oyo,Broadband MiFi,Male,2,Fair,38,300GB FUP Monthly Unlimited,30000,14,420000,7642,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0411,Abubakar Lane,1-Jan-25,57,Oyo,5G Broadband Router,Male,2,Fair,38,200GB Monthly Broadband Plan,25000,14,350000,19839,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0415,Maryam Anthony,1-Jan-25,67,Osun,Mobile SIM Card,Male,5,Excellent,46,20GB Monthly Plan,7500,3,22500,4234,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0423,Saidu Smith,1-Jan-25,65,Abia,Mobile SIM Card,Female,5,Excellent,58,20GB Monthly Plan,7500,9,67500,18554,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0423,Saidu Smith,1-Jan-25,65,Abia,Broadband MiFi,Female,5,Excellent,58,300GB FUP Monthly Unlimited,30000,8,240000,185,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0437,Alabo Young,1-Jan-25,57,Borno,Broadband MiFi,Male,3,Good,56,120GB Monthly Broadband Plan,24000,13,312000,1904,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0440,John Carter,1-Jan-25,50,Kwara,Mobile SIM Card,Male,3,Good,49,2.5GB 2-Day Plan,900,15,13500,10291,No,Costly Data Plans,"Kwara , Nigeria",100
+CUST0440,John Carter,1-Jan-25,50,Kwara,Broadband MiFi,Male,3,Good,49,150GB FUP Monthly Unlimited,20000,5,100000,1297,No,Costly Data Plans,"Kwara , Nigeria",100
+CUST0441,Grace Williams,1-Jan-25,26,Cross River,5G Broadband Router,Female,4,Very Good,28,60GB Monthly Broadband Plan,14500,10,145000,10486,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0443,Bola Wright,1-Jan-25,26,Kogi,5G Broadband Router,Female,4,Very Good,21,60GB Monthly Broadband Plan,14500,20,290000,3742,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0443,Bola Wright,1-Jan-25,26,Kogi,Broadband MiFi,Female,4,Very Good,21,300GB FUP Monthly Unlimited,30000,4,120000,17439,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0444,Boma Shah,1-Jan-25,18,Lagos,Mobile SIM Card,Female,2,Fair,8,16.5GB+10mins Monthly Plan,6500,20,130000,6091,No,Costly Data Plans,"Lagos , Nigeria",100
+CUST0448,Abubakar Ryan,1-Jan-25,20,Yobe,Broadband MiFi,Female,2,Fair,32,120GB Monthly Broadband Plan,24000,14,336000,1317,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0448,Abubakar Ryan,1-Jan-25,20,Yobe,4G Router,Female,2,Fair,32,165GB Monthly Plan,35000,20,700000,2383,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0448,Abubakar Ryan,1-Jan-25,20,Yobe,5G Broadband Router,Female,2,Fair,32,200GB Monthly Broadband Plan,25000,14,350000,8994,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0456,Amina Diaz,1-Jan-25,71,Oyo,5G Broadband Router,Female,2,Fair,49,450GB 3-Month Broadband Plan,75000,18,1350000,807,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0460,Ejiro Martin,1-Jan-25,49,Zamfara,Broadband MiFi,Female,1,Poor,8,150GB FUP Monthly Unlimited,20000,19,380000,16117,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0460,Ejiro Martin,1-Jan-25,49,Zamfara,4G Router,Female,1,Poor,8,10GB+10mins Monthly Plan,4500,10,45000,7039,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0460,Ejiro Martin,1-Jan-25,49,Zamfara,5G Broadband Router,Female,1,Poor,8,300GB FUP Monthly Unlimited,30000,17,510000,14301,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0465,Abubakar Ross,1-Jan-25,43,Enugu,Mobile SIM Card,Female,5,Excellent,1,12.5GB Monthly Plan,5500,19,104500,11483,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0467,Ibim Hunter,1-Jan-25,65,Osun,Broadband MiFi,Female,4,Very Good,22,120GB Monthly Broadband Plan,24000,10,240000,12621,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0467,Ibim Hunter,1-Jan-25,65,Osun,Mobile SIM Card,Female,4,Very Good,22,16.5GB+10mins Monthly Plan,6500,18,117000,12921,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0467,Ibim Hunter,1-Jan-25,65,Osun,5G Broadband Router,Female,4,Very Good,22,150GB FUP Monthly Unlimited,20000,20,400000,3889,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0468,David Boone,1-Jan-25,22,Bauchi,4G Router,Male,5,Excellent,49,65GB Monthly Plan,16000,7,112000,5536,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0469,Halima Matthews,1-Jan-25,72,Katsina,5G Broadband Router,Female,4,Very Good,26,450GB 3-Month Broadband Plan,75000,1,75000,3651,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0470,Sarah Gordon,1-Jan-25,56,Jigawa,4G Router,Female,1,Poor,6,25GB Monthly Plan,9000,5,45000,15378,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0470,Sarah Gordon,1-Jan-25,56,Jigawa,Broadband MiFi,Female,1,Poor,6,300GB FUP Monthly Unlimited,30000,6,180000,19046,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0471,Sade Wagner,1-Jan-25,57,Enugu,4G Router,Male,3,Good,46,25GB Monthly Plan,9000,4,36000,5196,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0471,Sade Wagner,1-Jan-25,57,Enugu,Mobile SIM Card,Male,3,Good,46,2.5GB 2-Day Plan,900,20,18000,4091,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0475,David Park,1-Jan-25,24,Abia,Mobile SIM Card,Male,2,Fair,26,16.5GB+10mins Monthly Plan,6500,11,71500,1915,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0475,David Park,1-Jan-25,24,Abia,Broadband MiFi,Male,2,Fair,26,300GB FUP Monthly Unlimited,30000,15,450000,12722,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0476,Zainab Lam,1-Jan-25,47,Niger,4G Router,Female,5,Excellent,14,165GB Monthly Plan,35000,1,35000,135,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0476,Zainab Lam,1-Jan-25,47,Niger,5G Broadband Router,Female,5,Excellent,14,300GB FUP Monthly Unlimited,30000,16,480000,8293,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0476,Zainab Lam,1-Jan-25,47,Niger,Broadband MiFi,Female,5,Excellent,14,60GB Monthly Broadband Plan,14500,3,43500,10786,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0478,Ifeanyi Ballard,1-Jan-25,75,Gombe,5G Broadband Router,Male,2,Fair,29,150GB FUP Monthly Unlimited,20000,10,200000,16335,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0478,Ifeanyi Ballard,1-Jan-25,75,Gombe,Broadband MiFi,Male,2,Fair,29,150GB FUP Monthly Unlimited,20000,16,320000,4723,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0481,Sade Reed,1-Jan-25,57,Kwara,Broadband MiFi,Female,5,Excellent,18,150GB FUP Monthly Unlimited,20000,14,280000,987,No,Costly Data Plans,"Kwara , Nigeria",100
+CUST0481,Sade Reed,1-Jan-25,57,Kwara,5G Broadband Router,Female,5,Excellent,18,1.5TB Yearly Broadband Plan,150000,13,1950000,6359,No,Costly Data Plans,"Kwara , Nigeria",100
+CUST0484,Ngozi Chan,1-Jan-25,76,Imo,Broadband MiFi,Female,3,Good,54,120GB Monthly Broadband Plan,24000,4,96000,1241,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0485,Alabo Anderson,1-Jan-25,31,Katsina,Broadband MiFi,Male,4,Very Good,59,60GB Monthly Broadband Plan,14500,20,290000,1143,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0485,Alabo Anderson,1-Jan-25,31,Katsina,Mobile SIM Card,Male,4,Very Good,59,20GB Monthly Plan,7500,2,15000,1363,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0485,Alabo Anderson,1-Jan-25,31,Katsina,5G Broadband Router,Male,4,Very Good,59,30GB Monthly Broadband Plan,9000,13,117000,5934,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0486,Tamuno Hudson,1-Jan-25,28,Kogi,Broadband MiFi,Male,4,Very Good,56,30GB Monthly Broadband Plan,9000,11,99000,9109,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0486,Tamuno Hudson,1-Jan-25,28,Kogi,4G Router,Male,4,Very Good,56,10GB+10mins Monthly Plan,4500,1,4500,2205,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0487,Kunle Gilmore,1-Jan-25,40,Borno,4G Router,Female,4,Very Good,23,10GB+10mins Monthly Plan,4500,2,9000,15951,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0487,Kunle Gilmore,1-Jan-25,40,Borno,Broadband MiFi,Female,4,Very Good,23,150GB FUP Monthly Unlimited,20000,14,280000,6268,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0488,Michael Jones,1-Jan-25,61,Abia,5G Broadband Router,Male,3,Good,10,300GB FUP Monthly Unlimited,30000,17,510000,1193,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0488,Michael Jones,1-Jan-25,61,Abia,Broadband MiFi,Male,3,Good,10,120GB Monthly Broadband Plan,24000,14,336000,17181,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0490,Nura Cox,1-Jan-25,45,Sokoto,4G Router,Male,3,Good,16,10GB+10mins Monthly Plan,4500,1,4500,1653,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0490,Nura Cox,1-Jan-25,45,Sokoto,Mobile SIM Card,Male,3,Good,16,7GB Monthly Plan,3500,12,42000,247,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0497,Saidu Baker,1-Jan-25,26,Borno,Broadband MiFi,Male,5,Excellent,19,60GB Monthly Broadband Plan,14500,14,203000,905,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0497,Saidu Baker,1-Jan-25,26,Borno,4G Router,Male,5,Excellent,19,165GB Monthly Plan,35000,16,560000,7382,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0497,Saidu Baker,1-Jan-25,26,Borno,5G Broadband Router,Male,5,Excellent,19,200GB Monthly Broadband Plan,25000,1,25000,5497,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0498,Shehu Harris,1-Jan-25,72,Osun,Broadband MiFi,Female,3,Good,42,150GB FUP Monthly Unlimited,20000,3,60000,2013,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0498,Shehu Harris,1-Jan-25,72,Osun,4G Router,Female,3,Good,42,25GB Monthly Plan,9000,7,63000,814,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0003,Saidu Evans,1-Mar-25,21,Sokoto,5G Broadband Router,Male,1,Poor,60,150GB FUP Monthly Unlimited,20000,8,160000,964,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0003,Saidu Evans,1-Mar-25,21,Sokoto,Mobile SIM Card,Male,1,Poor,60,1GB+1.5mins Daily Plan,500,8,4000,19705,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0003,Saidu Evans,1-Mar-25,21,Sokoto,Broadband MiFi,Male,1,Poor,60,30GB Monthly Broadband Plan,9000,15,135000,7634,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0004,Ejiro Walker,1-Mar-25,36,Gombe,4G Router,Female,1,Poor,14,10GB+10mins Monthly Plan,4500,9,40500,9272,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0010,Halima Ochoa,1-Mar-25,23,Imo,4G Router,Male,1,Poor,6,10GB+10mins Monthly Plan,4500,20,90000,5338,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0010,Halima Ochoa,1-Mar-25,23,Imo,Broadband MiFi,Male,1,Poor,6,60GB Monthly Broadband Plan,14500,18,261000,19289,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0010,Halima Ochoa,1-Mar-25,23,Imo,Mobile SIM Card,Male,1,Poor,6,500MB Daily Plan,350,13,4550,14273,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0012,Zainab Morton,1-Mar-25,78,Ondo,4G Router,Male,2,Fair,47,65GB Monthly Plan,16000,12,192000,13197,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0012,Zainab Morton,1-Mar-25,78,Ondo,Broadband MiFi,Male,2,Fair,47,60GB Monthly Broadband Plan,14500,2,29000,8251,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0015,Abubakar Garner,1-Mar-25,70,Yobe,Broadband MiFi,Male,2,Fair,13,30GB Monthly Broadband Plan,9000,16,144000,105,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0015,Abubakar Garner,1-Mar-25,70,Yobe,5G Broadband Router,Male,2,Fair,13,300GB FUP Monthly Unlimited,30000,17,510000,1185,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0015,Abubakar Garner,1-Mar-25,70,Yobe,4G Router,Male,2,Fair,13,65GB Monthly Plan,16000,3,48000,17034,No,Costly Data Plans,"Yobe , Nigeria",100
+CUST0018,David Fletcher,1-Mar-25,54,Bauchi,5G Broadband Router,Male,1,Poor,43,150GB FUP Monthly Unlimited,20000,18,360000,178,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0019,Obinna Wright,1-Mar-25,50,Cross River,Mobile SIM Card,Male,2,Fair,46,2.5GB 2-Day Plan,900,14,12600,1891,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0019,Obinna Wright,1-Mar-25,50,Cross River,4G Router,Male,2,Fair,46,25GB Monthly Plan,9000,11,99000,93,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0021,Oghene Brown,1-Mar-25,42,Imo,Mobile SIM Card,Male,5,Excellent,23,10GB+10mins Monthly Plan,4500,1,4500,17634,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0024,David Johnson,1-Mar-25,58,Kano,Broadband MiFi,Male,2,Fair,57,120GB Monthly Broadband Plan,24000,11,264000,872,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0024,David Johnson,1-Mar-25,58,Kano,Mobile SIM Card,Male,2,Fair,57,20GB Monthly Plan,7500,17,127500,12144,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0025,Ifeanyi Brown,1-Mar-25,65,Benue,4G Router,Female,1,Poor,3,65GB Monthly Plan,16000,11,176000,1898,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0025,Ifeanyi Brown,1-Mar-25,65,Benue,Mobile SIM Card,Female,1,Poor,3,7GB Monthly Plan,3500,4,14000,13285,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0025,Ifeanyi Brown,1-Mar-25,65,Benue,5G Broadband Router,Female,1,Poor,3,120GB Monthly Broadband Plan,24000,14,336000,10167,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0026,Ese Simmons,1-Mar-25,67,Cross River,5G Broadband Router,Male,4,Very Good,13,450GB 3-Month Broadband Plan,75000,1,75000,10981,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0027,Maryam Reyes,1-Mar-25,52,Ondo,4G Router,Female,4,Very Good,51,10GB+10mins Monthly Plan,4500,10,45000,13194,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0027,Maryam Reyes,1-Mar-25,52,Ondo,5G Broadband Router,Female,4,Very Good,51,200GB Monthly Broadband Plan,25000,8,200000,1913,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0027,Maryam Reyes,1-Mar-25,52,Ondo,Mobile SIM Card,Female,4,Very Good,51,1GB+1.5mins Daily Plan,500,7,3500,4532,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0037,Ifeanyi Ruiz,1-Mar-25,21,Ekiti,Broadband MiFi,Female,1,Poor,43,60GB Monthly Broadband Plan,14500,12,174000,2156,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0037,Ifeanyi Ruiz,1-Mar-25,21,Ekiti,4G Router,Female,1,Poor,43,165GB Monthly Plan,35000,14,490000,14161,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0039,Zina Green,1-Mar-25,64,Bayelsa,5G Broadband Router,Male,2,Fair,32,120GB Monthly Broadband Plan,24000,9,216000,17612,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0039,Zina Green,1-Mar-25,64,Bayelsa,Mobile SIM Card,Male,2,Fair,32,65GB Monthly Plan,16000,7,112000,10357,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0041,Ejiro Mason,1-Mar-25,76,Bauchi,5G Broadband Router,Female,3,Good,28,60GB Monthly Broadband Plan,14500,7,101500,2457,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0041,Ejiro Mason,1-Mar-25,76,Bauchi,Mobile SIM Card,Female,3,Good,28,25GB Monthly Plan,9000,18,162000,2435,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0042,Shehu Hoffman,1-Mar-25,40,Ondo,4G Router,Female,1,Poor,18,10GB+10mins Monthly Plan,4500,18,81000,608,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0042,Shehu Hoffman,1-Mar-25,40,Ondo,Mobile SIM Card,Female,1,Poor,18,1.5GB 2-Day Plan,600,2,1200,5523,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0044,Grace Walker,1-Mar-25,25,Oyo,Mobile SIM Card,Male,1,Poor,10,500MB Daily Plan,350,13,4550,15525,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0048,Abubakar Gentry,1-Mar-25,72,Delta,Mobile SIM Card,Female,4,Very Good,45,2.5GB 2-Day Plan,900,11,9900,17794,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0048,Abubakar Gentry,1-Mar-25,72,Delta,4G Router,Female,4,Very Good,45,25GB Monthly Plan,9000,8,72000,566,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0048,Abubakar Gentry,1-Mar-25,72,Delta,Broadband MiFi,Female,4,Very Good,45,120GB Monthly Broadband Plan,24000,1,24000,11763,No,Costly Data Plans,"Delta , Nigeria",100
+CUST0051,Zina Carter,1-Mar-25,68,Oyo,Mobile SIM Card,Male,5,Excellent,34,1GB+1.5mins Daily Plan,500,10,5000,11007,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0051,Zina Carter,1-Mar-25,68,Oyo,Broadband MiFi,Male,5,Excellent,34,60GB Monthly Broadband Plan,14500,16,232000,17623,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0051,Zina Carter,1-Mar-25,68,Oyo,5G Broadband Router,Male,5,Excellent,34,150GB FUP Monthly Unlimited,20000,20,400000,626,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0055,Halima Smith,1-Mar-25,65,Osun,Mobile SIM Card,Female,4,Very Good,3,1.5GB 2-Day Plan,600,2,1200,9932,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0055,Halima Smith,1-Mar-25,65,Osun,5G Broadband Router,Female,4,Very Good,3,300GB FUP Monthly Unlimited,30000,19,570000,10071,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0060,Amina Payne,1-Mar-25,25,Nasarawa,5G Broadband Router,Female,4,Very Good,38,450GB 3-Month Broadband Plan,75000,4,300000,17074,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0060,Amina Payne,1-Mar-25,25,Nasarawa,Broadband MiFi,Female,4,Very Good,38,150GB FUP Monthly Unlimited,20000,12,240000,7658,No,Costly Data Plans,"Nasarawa , Nigeria",100
+CUST0063,Amina Flores,1-Mar-25,48,Taraba,4G Router,Female,1,Poor,48,10GB+10mins Monthly Plan,4500,13,58500,1721,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0071,Alabo Keith,1-Mar-25,80,Osun,Broadband MiFi,Male,4,Very Good,47,60GB Monthly Broadband Plan,14500,14,203000,16954,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0077,Chinedu Pitts,1-Mar-25,43,Jigawa,5G Broadband Router,Female,2,Fair,30,30GB Monthly Broadband Plan,9000,20,180000,3154,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0077,Chinedu Pitts,1-Mar-25,43,Jigawa,Mobile SIM Card,Female,2,Fair,30,2.5GB 2-Day Plan,900,9,8100,13496,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0077,Chinedu Pitts,1-Mar-25,43,Jigawa,Broadband MiFi,Female,2,Fair,30,60GB Monthly Broadband Plan,14500,16,232000,13256,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0090,John Montoya,1-Mar-25,40,Gombe,Mobile SIM Card,Female,4,Very Good,30,10GB+10mins Monthly Plan,4500,2,9000,17466,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0090,John Montoya,1-Mar-25,40,Gombe,Broadband MiFi,Female,4,Very Good,30,60GB Monthly Broadband Plan,14500,18,261000,17489,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0096,Tega Turner,1-Mar-25,33,Rivers,Mobile SIM Card,Female,2,Fair,35,1.5GB 2-Day Plan,600,3,1800,16239,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0096,Tega Turner,1-Mar-25,33,Rivers,5G Broadband Router,Female,2,Fair,35,1.5TB Yearly Broadband Plan,150000,7,1050000,788,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0096,Tega Turner,1-Mar-25,33,Rivers,4G Router,Female,2,Fair,35,65GB Monthly Plan,16000,2,32000,15833,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0103,Chinedu Barrera,1-Mar-25,56,Ekiti,4G Router,Male,3,Good,36,65GB Monthly Plan,16000,5,80000,19703,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0103,Chinedu Barrera,1-Mar-25,56,Ekiti,Mobile SIM Card,Male,3,Good,36,500MB Daily Plan,350,1,350,15818,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0103,Chinedu Barrera,1-Mar-25,56,Ekiti,Broadband MiFi,Male,3,Good,36,300GB FUP Monthly Unlimited,30000,12,360000,11103,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0106,Abubakar Holmes,1-Mar-25,26,Edo,Broadband MiFi,Male,2,Fair,41,120GB Monthly Broadband Plan,24000,5,120000,18835,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0106,Abubakar Holmes,1-Mar-25,26,Edo,5G Broadband Router,Male,2,Fair,41,300GB FUP Monthly Unlimited,30000,20,600000,13192,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0106,Abubakar Holmes,1-Mar-25,26,Edo,Mobile SIM Card,Male,2,Fair,41,7GB Monthly Plan,3500,19,66500,16858,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0107,Bola Rogers,1-Mar-25,19,Katsina,4G Router,Male,2,Fair,42,10GB+10mins Monthly Plan,4500,10,45000,12856,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0110,Ibim Richards,1-Mar-25,47,Abuja (FCT),Mobile SIM Card,Female,2,Fair,60,1GB+1.5mins Daily Plan,500,3,1500,9973,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0110,Ibim Richards,1-Mar-25,47,Abuja (FCT),4G Router,Female,2,Fair,60,165GB Monthly Plan,35000,8,280000,10134,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0113,Michael Evans,1-Mar-25,21,Rivers,4G Router,Male,4,Very Good,9,25GB Monthly Plan,9000,11,99000,18631,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0117,Sade Collins,1-Mar-25,33,Bauchi,4G Router,Male,4,Very Good,36,25GB Monthly Plan,9000,9,81000,10948,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0117,Sade Collins,1-Mar-25,33,Bauchi,Mobile SIM Card,Male,4,Very Good,36,12.5GB Monthly Plan,5500,8,44000,3886,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0118,Zainab Garcia,1-Mar-25,54,Osun,5G Broadband Router,Female,2,Fair,50,200GB Monthly Broadband Plan,25000,9,225000,11232,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0118,Zainab Garcia,1-Mar-25,54,Osun,4G Router,Female,2,Fair,50,25GB Monthly Plan,9000,18,162000,2481,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0122,Grace Fowler,1-Mar-25,39,Cross River,5G Broadband Router,Male,5,Excellent,1,1.5TB Yearly Broadband Plan,150000,5,750000,17791,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0122,Grace Fowler,1-Mar-25,39,Cross River,4G Router,Male,5,Excellent,1,165GB Monthly Plan,35000,4,140000,5493,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0128,Sade Berry,1-Mar-25,75,Abia,Broadband MiFi,Male,1,Poor,26,300GB FUP Monthly Unlimited,30000,18,540000,14023,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0128,Sade Berry,1-Mar-25,75,Abia,Mobile SIM Card,Male,1,Poor,26,2.5GB 2-Day Plan,900,3,2700,18695,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0128,Sade Berry,1-Mar-25,75,Abia,Mobile SIM Card,Male,1,Poor,26,165GB Monthly Plan,35000,14,490000,683,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0141,Ibim Faulkner,1-Mar-25,17,Kano,Mobile SIM Card,Female,1,Poor,35,3.2GB 2-Day Plan,1000,8,8000,10511,No,Costly Data Plans,"Kano , Nigeria",100
+CUST0154,David Miller,1-Mar-25,26,Anambra,Mobile SIM Card,Male,2,Fair,43,7GB Monthly Plan,3500,14,49000,19316,No,Costly Data Plans,"Anambra , Nigeria",100
+CUST0159,Kunle Nielsen,1-Mar-25,29,Adamawa,Mobile SIM Card,Male,2,Fair,24,7GB Monthly Plan,3500,20,70000,1196,No,Costly Data Plans,"Adamawa , Nigeria",100
+CUST0159,Kunle Nielsen,1-Mar-25,29,Adamawa,5G Broadband Router,Male,2,Fair,24,450GB 3-Month Broadband Plan,75000,12,900000,11761,No,Costly Data Plans,"Adamawa , Nigeria",100
+CUST0183,Kunle Shaw,1-Mar-25,23,Kwara,5G Broadband Router,Male,3,Good,16,1.5TB Yearly Broadband Plan,150000,3,450000,5476,No,Costly Data Plans,"Kwara , Nigeria",100
+CUST0183,Kunle Shaw,1-Mar-25,23,Kwara,4G Router,Male,3,Good,16,10GB+10mins Monthly Plan,4500,19,85500,2765,No,Costly Data Plans,"Kwara , Nigeria",100
+CUST0192,Oghene Schroeder,1-Mar-25,34,Benue,Broadband MiFi,Female,2,Fair,35,150GB FUP Monthly Unlimited,20000,1,20000,12053,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0194,Obinna Dunn,1-Mar-25,30,Bauchi,5G Broadband Router,Female,4,Very Good,5,300GB FUP Monthly Unlimited,30000,14,420000,19518,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0194,Obinna Dunn,1-Mar-25,30,Bauchi,4G Router,Female,4,Very Good,5,165GB Monthly Plan,35000,6,210000,13001,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0213,Zainab Clark,1-Mar-25,70,Jigawa,Mobile SIM Card,Female,2,Fair,30,2.5GB 2-Day Plan,900,12,10800,10255,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0213,Zainab Clark,1-Mar-25,70,Jigawa,5G Broadband Router,Female,2,Fair,30,120GB Monthly Broadband Plan,24000,4,96000,6005,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0213,Zainab Clark,1-Mar-25,70,Jigawa,Broadband MiFi,Female,2,Fair,30,60GB Monthly Broadband Plan,14500,9,130500,1324,No,Costly Data Plans,"Jigawa , Nigeria",100
+CUST0222,Fatima Carpenter,1-Mar-25,18,Zamfara,Mobile SIM Card,Male,1,Poor,8,2.5GB 2-Day Plan,900,1,900,13256,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0236,Omamuzo Stephenson,1-Mar-25,69,Imo,Mobile SIM Card,Female,3,Good,26,165GB Monthly Plan,35000,17,595000,1207,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0237,Maryam Moore,1-Mar-25,56,Ondo,4G Router,Male,3,Good,14,25GB Monthly Plan,9000,12,108000,14222,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0239,Bala Holt,1-Mar-25,50,Abuja (FCT),5G Broadband Router,Female,2,Fair,44,200GB Monthly Broadband Plan,25000,4,100000,1629,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0239,Bala Holt,1-Mar-25,50,Abuja (FCT),Broadband MiFi,Female,2,Fair,44,120GB Monthly Broadband Plan,24000,18,432000,17367,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0239,Bala Holt,1-Mar-25,50,Abuja (FCT),Mobile SIM Card,Female,2,Fair,44,500MB Daily Plan,350,18,6300,14861,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0242,Bola Miller,1-Mar-25,35,Niger,5G Broadband Router,Male,4,Very Good,50,60GB Monthly Broadband Plan,14500,17,246500,19142,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0242,Bola Miller,1-Mar-25,35,Niger,Broadband MiFi,Male,4,Very Good,50,30GB Monthly Broadband Plan,9000,6,54000,15736,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0242,Bola Miller,1-Mar-25,35,Niger,4G Router,Male,4,Very Good,50,165GB Monthly Plan,35000,13,455000,10884,No,Costly Data Plans,"Niger , Nigeria",100
+CUST0243,Chinedu Elliott,1-Mar-25,60,Osun,Mobile SIM Card,Male,3,Good,43,16.5GB+10mins Monthly Plan,6500,1,6500,16483,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0250,Tamuno Lawrence,1-Mar-25,26,Abia,4G Router,Male,2,Fair,48,10GB+10mins Monthly Plan,4500,9,40500,12357,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0250,Tamuno Lawrence,1-Mar-25,26,Abia,Broadband MiFi,Male,2,Fair,48,150GB FUP Monthly Unlimited,20000,19,380000,2337,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0250,Tamuno Lawrence,1-Mar-25,26,Abia,5G Broadband Router,Male,2,Fair,48,30GB Monthly Broadband Plan,9000,18,162000,17035,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0257,Omamuzo Smith,1-Mar-25,76,Sokoto,5G Broadband Router,Male,1,Poor,3,300GB FUP Monthly Unlimited,30000,13,390000,7564,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0257,Omamuzo Smith,1-Mar-25,76,Sokoto,Mobile SIM Card,Male,1,Poor,3,7GB Monthly Plan,3500,3,10500,11774,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0257,Omamuzo Smith,1-Mar-25,76,Sokoto,4G Router,Male,1,Poor,3,25GB Monthly Plan,9000,8,72000,7558,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0259,Ejiro Collins,1-Mar-25,31,Osun,Mobile SIM Card,Female,1,Poor,52,1.5GB 2-Day Plan,600,14,8400,12963,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0259,Ejiro Collins,1-Mar-25,31,Osun,Broadband MiFi,Female,1,Poor,52,30GB Monthly Broadband Plan,9000,5,45000,4911,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0261,Obinna Simon,1-Mar-25,39,Zamfara,4G Router,Female,4,Very Good,11,165GB Monthly Plan,35000,4,140000,774,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0272,Tega Cooper,1-Mar-25,25,Enugu,Mobile SIM Card,Female,2,Fair,21,10GB+10mins Monthly Plan,4500,7,31500,10005,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0272,Tega Cooper,1-Mar-25,25,Enugu,5G Broadband Router,Female,2,Fair,21,60GB Monthly Broadband Plan,14500,9,130500,14722,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0273,Fatima Lewis,1-Mar-25,45,Benue,Broadband MiFi,Male,2,Fair,54,60GB Monthly Broadband Plan,14500,18,261000,12296,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0280,Grace Brock,1-Mar-25,73,Katsina,4G Router,Female,4,Very Good,40,25GB Monthly Plan,9000,20,180000,8465,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0301,Boma Knight,1-Mar-25,57,Imo,Mobile SIM Card,Male,3,Good,25,2.5GB 2-Day Plan,900,20,18000,1966,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0301,Boma Knight,1-Mar-25,57,Imo,Broadband MiFi,Male,3,Good,25,30GB Monthly Broadband Plan,9000,10,90000,10376,No,Costly Data Plans,"Imo , Nigeria",100
+CUST0302,Tunde Wallace,1-Mar-25,54,Osun,5G Broadband Router,Male,1,Poor,55,150GB FUP Monthly Unlimited,20000,12,240000,803,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0302,Tunde Wallace,1-Mar-25,54,Osun,Mobile SIM Card,Male,1,Poor,55,1.5GB 2-Day Plan,600,12,7200,2811,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0302,Tunde Wallace,1-Mar-25,54,Osun,Broadband MiFi,Male,1,Poor,55,120GB Monthly Broadband Plan,24000,9,216000,5035,No,Costly Data Plans,"Osun , Nigeria",100
+CUST0304,Bola Castro,1-Mar-25,64,Katsina,Mobile SIM Card,Male,3,Good,59,500MB Daily Plan,350,20,7000,14966,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0304,Bola Castro,1-Mar-25,64,Katsina,Broadband MiFi,Male,3,Good,59,30GB Monthly Broadband Plan,9000,13,117000,12696,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0314,Omamuzo King,1-Mar-25,19,Akwa Ibom,Mobile SIM Card,Male,4,Very Good,10,500MB Daily Plan,350,19,6650,8376,No,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0316,Shehu Rogers,1-Mar-25,56,Plateau,Mobile SIM Card,Male,4,Very Good,49,1GB+1.5mins Daily Plan,500,7,3500,3082,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0316,Shehu Rogers,1-Mar-25,56,Plateau,5G Broadband Router,Male,4,Very Good,49,150GB FUP Monthly Unlimited,20000,1,20000,2674,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0324,Amina Taylor,1-Mar-25,34,Enugu,5G Broadband Router,Male,3,Good,27,300GB FUP Monthly Unlimited,30000,5,150000,2395,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0324,Amina Taylor,1-Mar-25,34,Enugu,Mobile SIM Card,Male,3,Good,27,500MB Daily Plan,350,9,3150,12,No,Costly Data Plans,"Enugu , Nigeria",100
+CUST0328,Kunle Liu,1-Mar-25,53,Taraba,4G Router,Male,3,Good,8,65GB Monthly Plan,16000,17,272000,2231,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0328,Kunle Liu,1-Mar-25,53,Taraba,5G Broadband Router,Male,3,Good,8,150GB FUP Monthly Unlimited,20000,20,400000,9699,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0328,Kunle Liu,1-Mar-25,53,Taraba,Broadband MiFi,Male,3,Good,8,300GB FUP Monthly Unlimited,30000,11,330000,857,No,Costly Data Plans,"Taraba , Nigeria",100
+CUST0331,Funke Francis,1-Mar-25,38,Benue,4G Router,Female,4,Very Good,54,165GB Monthly Plan,35000,15,525000,315,No,Costly Data Plans,"Benue , Nigeria",100
+CUST0336,Chinedu Reynolds,1-Mar-25,58,Sokoto,4G Router,Male,1,Poor,7,10GB+10mins Monthly Plan,4500,9,40500,3891,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0336,Chinedu Reynolds,1-Mar-25,58,Sokoto,Mobile SIM Card,Male,1,Poor,7,16.5GB+10mins Monthly Plan,6500,15,97500,6417,No,Costly Data Plans,"Sokoto , Nigeria",100
+CUST0340,Obinna Thomas,1-Mar-25,49,Gombe,Broadband MiFi,Female,3,Good,12,60GB Monthly Broadband Plan,14500,16,232000,2302,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0344,Alabo Baker,1-Mar-25,41,Ondo,Broadband MiFi,Female,4,Very Good,20,30GB Monthly Broadband Plan,9000,17,153000,12249,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0344,Alabo Baker,1-Mar-25,41,Ondo,5G Broadband Router,Female,4,Very Good,20,450GB 3-Month Broadband Plan,75000,10,750000,1696,No,Costly Data Plans,"Ondo , Nigeria",100
+CUST0345,Sade Mercer,1-Mar-25,63,Oyo,4G Router,Male,1,Poor,46,165GB Monthly Plan,35000,13,455000,14059,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0352,Zainab Rivera,1-Mar-25,48,Borno,4G Router,Female,1,Poor,18,165GB Monthly Plan,35000,6,210000,7427,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0352,Zainab Rivera,1-Mar-25,48,Borno,5G Broadband Router,Female,1,Poor,18,120GB Monthly Broadband Plan,24000,8,192000,15661,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0352,Zainab Rivera,1-Mar-25,48,Borno,Broadband MiFi,Female,1,Poor,18,60GB Monthly Broadband Plan,14500,17,246500,3657,No,Costly Data Plans,"Borno , Nigeria",100
+CUST0359,Omamuzo Juarez,1-Mar-25,58,Oyo,4G Router,Female,2,Fair,53,165GB Monthly Plan,35000,16,560000,361,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0359,Omamuzo Juarez,1-Mar-25,58,Oyo,5G Broadband Router,Female,2,Fair,53,150GB FUP Monthly Unlimited,20000,14,280000,292,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0367,Bola Carpenter,1-Mar-25,38,Bayelsa,5G Broadband Router,Male,2,Fair,8,300GB FUP Monthly Unlimited,30000,19,570000,8801,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0379,Sarah Woods,1-Mar-25,20,Cross River,Broadband MiFi,Female,5,Excellent,49,120GB Monthly Broadband Plan,24000,2,48000,17623,No,Costly Data Plans,"Cross River , Nigeria",100
+CUST0380,Michael Jacobs,1-Mar-25,62,Oyo,5G Broadband Router,Male,4,Very Good,25,150GB FUP Monthly Unlimited,20000,7,140000,11237,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0380,Michael Jacobs,1-Mar-25,62,Oyo,Broadband MiFi,Male,4,Very Good,25,150GB FUP Monthly Unlimited,20000,8,160000,19626,No,Costly Data Plans,"Oyo , Nigeria",100
+CUST0384,Nura Rodriguez,1-Mar-25,58,Kogi,Mobile SIM Card,Female,4,Very Good,42,1.5GB 2-Day Plan,600,10,6000,17971,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0384,Nura Rodriguez,1-Mar-25,58,Kogi,4G Router,Female,4,Very Good,42,10GB+10mins Monthly Plan,4500,8,36000,15796,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0384,Nura Rodriguez,1-Mar-25,58,Kogi,5G Broadband Router,Female,4,Very Good,42,1.5TB Yearly Broadband Plan,150000,10,1500000,7469,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0390,Ejiro Gonzalez,1-Mar-25,65,Gombe,Broadband MiFi,Male,3,Good,19,60GB Monthly Broadband Plan,14500,14,203000,14843,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0390,Ejiro Gonzalez,1-Mar-25,65,Gombe,Mobile SIM Card,Male,3,Good,19,12.5GB Monthly Plan,5500,14,77000,5808,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0391,Ibim Schwartz,1-Mar-25,33,Katsina,5G Broadband Router,Male,4,Very Good,14,150GB FUP Monthly Unlimited,20000,9,180000,182,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0391,Ibim Schwartz,1-Mar-25,33,Katsina,Broadband MiFi,Male,4,Very Good,14,60GB Monthly Broadband Plan,14500,15,217500,3539,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0391,Ibim Schwartz,1-Mar-25,33,Katsina,4G Router,Male,4,Very Good,14,10GB+10mins Monthly Plan,4500,13,58500,4025,No,Costly Data Plans,"Katsina , Nigeria",100
+CUST0392,Abubakar Hayes,1-Mar-25,78,Rivers,4G Router,Female,4,Very Good,54,65GB Monthly Plan,16000,10,160000,3123,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0392,Abubakar Hayes,1-Mar-25,78,Rivers,Broadband MiFi,Female,4,Very Good,54,60GB Monthly Broadband Plan,14500,10,145000,2527,No,Costly Data Plans,"Rivers , Nigeria",100
+CUST0394,John Nielsen,1-Mar-25,31,Gombe,5G Broadband Router,Male,2,Fair,55,1.5TB Yearly Broadband Plan,150000,5,750000,17572,No,Costly Data Plans,"Gombe , Nigeria",100
+CUST0396,Ngozi Johnson,1-Mar-25,61,Plateau,5G Broadband Router,Male,3,Good,9,150GB FUP Monthly Unlimited,20000,17,340000,4397,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0396,Ngozi Johnson,1-Mar-25,61,Plateau,Broadband MiFi,Male,3,Good,9,150GB FUP Monthly Unlimited,20000,18,360000,1664,No,Costly Data Plans,"Plateau , Nigeria",100
+CUST0398,Amaka Shannon,1-Mar-25,72,Bauchi,4G Router,Female,1,Poor,12,10GB+10mins Monthly Plan,4500,5,22500,17143,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0416,Maryam Blankenship,1-Mar-25,80,Abia,Mobile SIM Card,Female,2,Fair,43,16.5GB+10mins Monthly Plan,6500,1,6500,3653,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0416,Maryam Blankenship,1-Mar-25,80,Abia,5G Broadband Router,Female,2,Fair,43,300GB FUP Monthly Unlimited,30000,7,210000,11558,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0420,Ese Miller,1-Mar-25,54,Kaduna,4G Router,Female,1,Poor,58,65GB Monthly Plan,16000,19,304000,10463,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0420,Ese Miller,1-Mar-25,54,Kaduna,Broadband MiFi,Female,1,Poor,58,120GB Monthly Broadband Plan,24000,3,72000,5074,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0420,Ese Miller,1-Mar-25,54,Kaduna,5G Broadband Router,Female,1,Poor,58,60GB Monthly Broadband Plan,14500,11,159500,12016,No,Costly Data Plans,"Kaduna , Nigeria",100
+CUST0424,Maryam Becker,1-Mar-25,42,Abuja (FCT),Broadband MiFi,Female,4,Very Good,41,60GB Monthly Broadband Plan,14500,11,159500,14752,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0424,Maryam Becker,1-Mar-25,42,Abuja (FCT),4G Router,Female,4,Very Good,41,165GB Monthly Plan,35000,4,140000,17541,No,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0452,Saidu Jackson,1-Mar-25,59,Ekiti,Broadband MiFi,Male,2,Fair,50,60GB Monthly Broadband Plan,14500,4,58000,1599,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0452,Saidu Jackson,1-Mar-25,59,Ekiti,5G Broadband Router,Male,2,Fair,50,150GB FUP Monthly Unlimited,20000,20,400000,15644,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0452,Saidu Jackson,1-Mar-25,59,Ekiti,Mobile SIM Card,Male,2,Fair,50,3.2GB 2-Day Plan,1000,2,2000,16481,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0455,Boma Baker,1-Mar-25,68,Kogi,Broadband MiFi,Female,1,Poor,55,30GB Monthly Broadband Plan,9000,13,117000,6799,No,Costly Data Plans,"Kogi , Nigeria",100
+CUST0457,Maryam Martin,1-Mar-25,56,Ekiti,Mobile SIM Card,Male,5,Excellent,53,12.5GB Monthly Plan,5500,18,99000,12895,No,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0462,Ejiro Brown,1-Mar-25,67,Bauchi,Mobile SIM Card,Female,5,Excellent,56,12.5GB Monthly Plan,5500,14,77000,14648,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0462,Ejiro Brown,1-Mar-25,67,Bauchi,5G Broadband Router,Female,5,Excellent,56,300GB FUP Monthly Unlimited,30000,5,150000,293,No,Costly Data Plans,"Bauchi , Nigeria",100
+CUST0472,Halima Adams,1-Mar-25,79,Zamfara,Mobile SIM Card,Female,1,Poor,8,2.5GB 2-Day Plan,900,8,7200,818,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0472,Halima Adams,1-Mar-25,79,Zamfara,Broadband MiFi,Female,1,Poor,8,30GB Monthly Broadband Plan,9000,19,171000,542,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0472,Halima Adams,1-Mar-25,79,Zamfara,4G Router,Female,1,Poor,8,65GB Monthly Plan,16000,18,288000,4964,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0480,Kunle Goodwin,1-Mar-25,32,Edo,5G Broadband Router,Male,2,Fair,57,1.5TB Yearly Broadband Plan,150000,14,2100000,89,No,Costly Data Plans,"Edo , Nigeria",100
+CUST0493,Tega Fischer,1-Mar-25,42,Abia,Mobile SIM Card,Female,3,Good,16,3.2GB 2-Day Plan,1000,5,5000,2931,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0493,Tega Fischer,1-Mar-25,42,Abia,5G Broadband Router,Female,3,Good,16,60GB Monthly Broadband Plan,14500,13,188500,3874,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0493,Tega Fischer,1-Mar-25,42,Abia,Broadband MiFi,Female,3,Good,16,300GB FUP Monthly Unlimited,30000,14,420000,6393,No,Costly Data Plans,"Abia , Nigeria",100
+CUST0495,Kunle Brown,1-Mar-25,37,Zamfara,5G Broadband Router,Female,4,Very Good,49,200GB Monthly Broadband Plan,25000,16,400000,10533,No,Costly Data Plans,"Zamfara , Nigeria",100
+CUST0499,Tega Hood,1-Mar-25,41,Bayelsa,5G Broadband Router,Female,2,Fair,20,30GB Monthly Broadband Plan,9000,10,90000,15413,No,Costly Data Plans,"Bayelsa , Nigeria",100
+CUST0017,Tunde Hayes,1-Feb-25,74,Anambra,4G Router,Male,5,Excellent,35,25GB Monthly Plan,9000,15,135000,5735,Yes,Costly Data Plans,"Anambra , Nigeria",100
+CUST0054,Amaka Potter,1-Mar-25,24,Akwa Ibom,Mobile SIM Card,Female,1,Poor,22,16.5GB+10mins Monthly Plan,6500,11,71500,9713,Yes,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0054,Amaka Potter,1-Mar-25,24,Akwa Ibom,Broadband MiFi,Female,1,Poor,22,120GB Monthly Broadband Plan,24000,13,312000,15269,Yes,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0054,Amaka Potter,1-Mar-25,24,Akwa Ibom,Mobile SIM Card,Female,1,Poor,22,165GB Monthly Plan,35000,7,245000,1866,Yes,Costly Data Plans,"Akwa Ibom , Nigeria",100
+CUST0062,Ngozi Henson,1-Mar-25,21,Abia,Mobile SIM Card,Female,2,Fair,3,500MB Daily Plan,350,18,6300,2687,Yes,Costly Data Plans,"Abia , Nigeria",100
+CUST0062,Ngozi Henson,1-Mar-25,21,Abia,Broadband MiFi,Female,2,Fair,3,300GB FUP Monthly Unlimited,30000,9,270000,10641,Yes,Costly Data Plans,"Abia , Nigeria",100
+CUST0082,Michael Ortiz,1-Feb-25,40,Ekiti,4G Router,Female,2,Fair,47,10GB+10mins Monthly Plan,4500,3,13500,15216,Yes,Costly Data Plans,"Ekiti , Nigeria",100
+CUST0099,Boma Gonzalez,1-Mar-25,26,Kwara,5G Broadband Router,Male,3,Good,35,450GB 3-Month Broadband Plan,75000,15,1125000,3375,Yes,Costly Data Plans,"Kwara , Nigeria",100
+CUST0099,Boma Gonzalez,1-Mar-25,26,Kwara,4G Router,Male,3,Good,35,25GB Monthly Plan,9000,12,108000,897,Yes,Costly Data Plans,"Kwara , Nigeria",100
+CUST0099,Boma Gonzalez,1-Mar-25,26,Kwara,Mobile SIM Card,Male,3,Good,35,20GB Monthly Plan,7500,2,15000,5527,Yes,Costly Data Plans,"Kwara , Nigeria",100
+CUST0132,Nura Yang,1-Feb-25,56,Niger,Broadband MiFi,Male,5,Excellent,20,120GB Monthly Broadband Plan,24000,6,144000,176,Yes,Costly Data Plans,"Niger , Nigeria",100
+CUST0132,Nura Yang,1-Feb-25,56,Niger,5G Broadband Router,Male,5,Excellent,20,450GB 3-Month Broadband Plan,75000,2,150000,11139,Yes,Costly Data Plans,"Niger , Nigeria",100
+CUST0149,Omamuzo Levine,1-Feb-25,26,Imo,Mobile SIM Card,Male,2,Fair,44,3.2GB 2-Day Plan,1000,9,9000,3386,Yes,Costly Data Plans,"Imo , Nigeria",100
+CUST0149,Omamuzo Levine,1-Feb-25,26,Imo,Broadband MiFi,Male,2,Fair,44,60GB Monthly Broadband Plan,14500,3,43500,603,Yes,Costly Data Plans,"Imo , Nigeria",100
+CUST0150,Ejiro Roman,1-Feb-25,48,Imo,Mobile SIM Card,Female,4,Very Good,39,7GB Monthly Plan,3500,13,45500,1684,Yes,Costly Data Plans,"Imo , Nigeria",100
+CUST0199,John Morales,1-Feb-25,19,Kwara,4G Router,Male,2,Fair,39,10GB+10mins Monthly Plan,4500,18,81000,13959,Yes,Costly Data Plans,"Kwara , Nigeria",100
+CUST0229,John Edwards,1-Jan-25,78,Delta,Mobile SIM Card,Female,1,Poor,29,25GB Monthly Plan,9000,20,180000,10406,Yes,Costly Data Plans,"Delta , Nigeria",100
+CUST0306,Alabo Cortez,1-Mar-25,80,Katsina,Mobile SIM Card,Male,4,Very Good,28,2.5GB 2-Day Plan,900,9,8100,10986,Yes,Costly Data Plans,"Katsina , Nigeria",100
+CUST0327,Maryam Rhodes,1-Feb-25,58,Katsina,4G Router,Male,2,Fair,7,65GB Monthly Plan,16000,10,160000,1908,Yes,Costly Data Plans,"Katsina , Nigeria",100
+CUST0327,Maryam Rhodes,1-Feb-25,58,Katsina,Mobile SIM Card,Male,2,Fair,7,7GB Monthly Plan,3500,13,45500,7403,Yes,Costly Data Plans,"Katsina , Nigeria",100
+CUST0327,Maryam Rhodes,1-Feb-25,58,Katsina,5G Broadband Router,Male,2,Fair,7,150GB FUP Monthly Unlimited,20000,18,360000,15181,Yes,Costly Data Plans,"Katsina , Nigeria",100
+CUST0371,Grace Wilkerson,1-Mar-25,38,Abuja (FCT),Mobile SIM Card,Male,3,Good,4,3.2GB 2-Day Plan,1000,18,18000,14821,Yes,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0371,Grace Wilkerson,1-Mar-25,38,Abuja (FCT),Broadband MiFi,Male,3,Good,4,150GB FUP Monthly Unlimited,20000,1,20000,3203,Yes,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0395,Oghene Pacheco,1-Feb-25,36,Oyo,Broadband MiFi,Female,3,Good,24,150GB FUP Monthly Unlimited,20000,20,400000,15306,Yes,Costly Data Plans,"Oyo , Nigeria",100
+CUST0395,Oghene Pacheco,1-Feb-25,36,Oyo,5G Broadband Router,Female,3,Good,24,300GB FUP Monthly Unlimited,30000,11,330000,10897,Yes,Costly Data Plans,"Oyo , Nigeria",100
+CUST0395,Oghene Pacheco,1-Feb-25,36,Oyo,Mobile SIM Card,Female,3,Good,24,1GB+1.5mins Daily Plan,500,12,6000,5466,Yes,Costly Data Plans,"Oyo , Nigeria",100
+CUST0400,Bola Vincent,1-Jan-25,41,Anambra,Broadband MiFi,Male,4,Very Good,51,300GB FUP Monthly Unlimited,30000,4,120000,13368,Yes,Costly Data Plans,"Anambra , Nigeria",100
+CUST0418,Boma Johnson,1-Feb-25,68,Niger,4G Router,Male,4,Very Good,41,165GB Monthly Plan,35000,5,175000,4808,Yes,Costly Data Plans,"Niger , Nigeria",100
+CUST0418,Boma Johnson,1-Feb-25,68,Niger,Mobile SIM Card,Male,4,Very Good,41,500MB Daily Plan,350,10,3500,603,Yes,Costly Data Plans,"Niger , Nigeria",100
+CUST0418,Boma Johnson,1-Feb-25,68,Niger,Broadband MiFi,Male,4,Very Good,41,60GB Monthly Broadband Plan,14500,14,203000,9733,Yes,Costly Data Plans,"Niger , Nigeria",100
+CUST0421,Tega Stokes,1-Feb-25,65,Imo,Mobile SIM Card,Female,1,Poor,14,2.5GB 2-Day Plan,900,12,10800,9833,Yes,Costly Data Plans,"Imo , Nigeria",100
+CUST0421,Tega Stokes,1-Feb-25,65,Imo,4G Router,Female,1,Poor,14,65GB Monthly Plan,16000,14,224000,6364,Yes,Costly Data Plans,"Imo , Nigeria",100
+CUST0434,John Williams,1-Jan-25,49,Abuja (FCT),Mobile SIM Card,Female,4,Very Good,28,3.2GB 2-Day Plan,1000,5,5000,16924,Yes,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0434,John Williams,1-Jan-25,49,Abuja (FCT),4G Router,Female,4,Very Good,28,65GB Monthly Plan,16000,7,112000,7025,Yes,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0434,John Williams,1-Jan-25,49,Abuja (FCT),5G Broadband Router,Female,4,Very Good,28,120GB Monthly Broadband Plan,24000,6,144000,3654,Yes,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0453,Michael Madden,1-Feb-25,29,Abuja (FCT),Mobile SIM Card,Male,3,Good,56,3.2GB 2-Day Plan,1000,12,12000,3128,Yes,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0453,Michael Madden,1-Feb-25,29,Abuja (FCT),5G Broadband Router,Male,3,Good,56,200GB Monthly Broadband Plan,25000,4,100000,16392,Yes,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0453,Michael Madden,1-Feb-25,29,Abuja (FCT),4G Router,Male,3,Good,56,10GB+10mins Monthly Plan,4500,14,63000,881,Yes,Costly Data Plans,"Abuja (FCT) , Nigeria",100
+CUST0458,Alabo Bradley,1-Mar-25,60,Kebbi,4G Router,Male,1,Poor,57,25GB Monthly Plan,9000,17,153000,4314,Yes,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0458,Alabo Bradley,1-Mar-25,60,Kebbi,5G Broadband Router,Male,1,Poor,57,120GB Monthly Broadband Plan,24000,6,144000,10451,Yes,Costly Data Plans,"Kebbi , Nigeria",100
+CUST0001,Ngozi Berry,1-Jan-25,27,Kwara,4G Router,Male,2,Fair,2,165GB Monthly Plan,35000,19,665000,4448,Yes,Relocation,"Kwara , Nigeria",100
+CUST0013,Ngozi Moreno,1-Jan-25,23,Kebbi,4G Router,Female,2,Fair,52,10GB+10mins Monthly Plan,4500,8,36000,5607,Yes,Relocation,"Kebbi , Nigeria",100
+CUST0013,Ngozi Moreno,1-Jan-25,23,Kebbi,Mobile SIM Card,Female,2,Fair,52,3.2GB 2-Day Plan,1000,18,18000,889,Yes,Relocation,"Kebbi , Nigeria",100
+CUST0035,Oghene Mcguire,1-Jan-25,44,Kaduna,4G Router,Male,2,Fair,49,165GB Monthly Plan,35000,19,665000,13406,Yes,Poor Network,"Kaduna , Nigeria",100
+CUST0035,Oghene Mcguire,1-Jan-25,44,Kaduna,Broadband MiFi,Male,2,Fair,49,150GB FUP Monthly Unlimited,20000,9,180000,9327,Yes,Poor Network,"Kaduna , Nigeria",100
+CUST0035,Oghene Mcguire,1-Jan-25,44,Kaduna,5G Broadband Router,Male,2,Fair,49,200GB Monthly Broadband Plan,25000,20,500000,3397,Yes,Poor Network,"Kaduna , Nigeria",100
+CUST0043,Abubakar Johnson,1-Jan-25,32,Yobe,5G Broadband Router,Male,5,Excellent,56,30GB Monthly Broadband Plan,9000,16,144000,5087,Yes,Fast Data Consumption,"Yobe , Nigeria",100
+CUST0043,Abubakar Johnson,1-Jan-25,32,Yobe,Broadband MiFi,Male,5,Excellent,56,30GB Monthly Broadband Plan,9000,13,117000,16451,Yes,Fast Data Consumption,"Yobe , Nigeria",100
+CUST0093,Amaka Webb,1-Jan-25,76,Nasarawa,Mobile SIM Card,Male,1,Poor,58,3.2GB 2-Day Plan,1000,8,8000,15535,Yes,Better Offers from Competitors,"Nasarawa , Nigeria",100
+CUST0108,John Rose,1-Jan-25,47,Kebbi,Mobile SIM Card,Female,1,Poor,30,7GB Monthly Plan,3500,11,38500,12153,Yes,Fast Data Consumption,"Kebbi , Nigeria",100
+CUST0108,John Rose,1-Jan-25,47,Kebbi,Broadband MiFi,Female,1,Poor,30,300GB FUP Monthly Unlimited,30000,12,360000,14697,Yes,Fast Data Consumption,"Kebbi , Nigeria",100
+CUST0176,Maryam Martinez,1-Jan-25,71,Imo,Broadband MiFi,Male,4,Very Good,16,30GB Monthly Broadband Plan,9000,5,45000,303,Yes,Relocation,"Imo , Nigeria",100
+CUST0176,Maryam Martinez,1-Jan-25,71,Imo,4G Router,Male,4,Very Good,16,65GB Monthly Plan,16000,12,192000,3318,Yes,Relocation,"Imo , Nigeria",100
+CUST0176,Maryam Martinez,1-Jan-25,71,Imo,Mobile SIM Card,Male,4,Very Good,16,16.5GB+10mins Monthly Plan,6500,9,58500,10369,Yes,Relocation,"Imo , Nigeria",100
+CUST0185,Obinna Young,1-Jan-25,27,Imo,Mobile SIM Card,Female,3,Good,26,12.5GB Monthly Plan,5500,18,99000,11141,Yes,Poor Customer Service,"Imo , Nigeria",100
+CUST0209,Kunle Bird,1-Jan-25,55,Zamfara,Broadband MiFi,Female,2,Fair,9,150GB FUP Monthly Unlimited,20000,2,40000,71,Yes,Better Offers from Competitors,"Zamfara , Nigeria",100
+CUST0223,Sade Howell,1-Jan-25,30,Kogi,Mobile SIM Card,Female,5,Excellent,25,65GB Monthly Plan,16000,4,64000,6057,Yes,High Call Tarriffs,"Kogi , Nigeria",100
+CUST0248,Boma Peterson,1-Jan-25,56,Kano,Broadband MiFi,Female,5,Excellent,44,30GB Monthly Broadband Plan,9000,17,153000,7186,Yes,High Call Tarriffs,"Kano , Nigeria",100
+CUST0248,Boma Peterson,1-Jan-25,56,Kano,5G Broadband Router,Female,5,Excellent,44,150GB FUP Monthly Unlimited,20000,10,200000,5832,Yes,High Call Tarriffs,"Kano , Nigeria",100
+CUST0248,Boma Peterson,1-Jan-25,56,Kano,Mobile SIM Card,Female,5,Excellent,44,3.2GB 2-Day Plan,1000,15,15000,5666,Yes,High Call Tarriffs,"Kano , Nigeria",100
+CUST0278,Amaka Johnson,1-Jan-25,56,Yobe,4G Router,Female,4,Very Good,17,25GB Monthly Plan,9000,4,36000,9557,Yes,Poor Customer Service,"Yobe , Nigeria",100
+CUST0288,Grace Chaney,1-Jan-25,40,Niger,5G Broadband Router,Male,5,Excellent,10,1.5TB Yearly Broadband Plan,150000,8,1200000,14556,Yes,Poor Network,"Niger , Nigeria",100
+CUST0288,Grace Chaney,1-Jan-25,40,Niger,Broadband MiFi,Male,5,Excellent,10,30GB Monthly Broadband Plan,9000,16,144000,3056,Yes,Poor Network,"Niger , Nigeria",100
+CUST0297,Bola Spencer,1-Jan-25,32,Enugu,Mobile SIM Card,Male,4,Very Good,13,16.5GB+10mins Monthly Plan,6500,19,123500,12498,Yes,Poor Network,"Enugu , Nigeria",100
+CUST0297,Bola Spencer,1-Jan-25,32,Enugu,5G Broadband Router,Male,4,Very Good,13,120GB Monthly Broadband Plan,24000,8,192000,1029,Yes,Poor Network,"Enugu , Nigeria",100
+CUST0297,Bola Spencer,1-Jan-25,32,Enugu,4G Router,Male,4,Very Good,13,65GB Monthly Plan,16000,7,112000,311,Yes,Poor Network,"Enugu , Nigeria",100
+CUST0317,Zainab Shaw,1-Jan-25,45,Osun,4G Router,Male,3,Good,44,165GB Monthly Plan,35000,12,420000,14255,Yes,Better Offers from Competitors,"Osun , Nigeria",100
+CUST0317,Zainab Shaw,1-Jan-25,45,Osun,5G Broadband Router,Male,3,Good,44,300GB FUP Monthly Unlimited,30000,16,480000,1705,Yes,Better Offers from Competitors,"Osun , Nigeria",100
+CUST0332,David Ward,1-Jan-25,58,Sokoto,5G Broadband Router,Female,5,Excellent,60,60GB Monthly Broadband Plan,14500,11,159500,11569,Yes,High Call Tarriffs,"Sokoto , Nigeria",100
+CUST0332,David Ward,1-Jan-25,58,Sokoto,Mobile SIM Card,Female,5,Excellent,60,7GB Monthly Plan,3500,5,17500,1371,Yes,High Call Tarriffs,"Sokoto , Nigeria",100
+CUST0332,David Ward,1-Jan-25,58,Sokoto,Broadband MiFi,Female,5,Excellent,60,300GB FUP Monthly Unlimited,30000,11,330000,16823,Yes,High Call Tarriffs,"Sokoto , Nigeria",100
+CUST0358,Chinedu Smith,1-Jan-25,32,Jigawa,Broadband MiFi,Male,2,Fair,58,300GB FUP Monthly Unlimited,30000,11,330000,15399,Yes,Fast Data Consumption,"Jigawa , Nigeria",100
+CUST0358,Chinedu Smith,1-Jan-25,32,Jigawa,5G Broadband Router,Male,2,Fair,58,120GB Monthly Broadband Plan,24000,3,72000,3281,Yes,Fast Data Consumption,"Jigawa , Nigeria",100
+CUST0358,Chinedu Smith,1-Jan-25,32,Jigawa,4G Router,Male,2,Fair,58,25GB Monthly Plan,9000,13,117000,15553,Yes,Fast Data Consumption,"Jigawa , Nigeria",100
+CUST0360,Fatima Webb,1-Jan-25,29,Nasarawa,Mobile SIM Card,Female,1,Poor,7,12.5GB Monthly Plan,5500,1,5500,302,Yes,High Call Tarriffs,"Nasarawa , Nigeria",100
+CUST0360,Fatima Webb,1-Jan-25,29,Nasarawa,Broadband MiFi,Female,1,Poor,7,30GB Monthly Broadband Plan,9000,9,81000,13309,Yes,High Call Tarriffs,"Nasarawa , Nigeria",100
+CUST0364,Maryam Harmon,1-Jan-25,79,Adamawa,Broadband MiFi,Female,3,Good,2,150GB FUP Monthly Unlimited,20000,17,340000,16152,Yes,Better Offers from Competitors,"Adamawa , Nigeria",100
+CUST0364,Maryam Harmon,1-Jan-25,79,Adamawa,4G Router,Female,3,Good,2,165GB Monthly Plan,35000,18,630000,18805,Yes,Better Offers from Competitors,"Adamawa , Nigeria",100
+CUST0364,Maryam Harmon,1-Jan-25,79,Adamawa,Mobile SIM Card,Female,3,Good,2,1.5GB 2-Day Plan,600,8,4800,14834,Yes,Better Offers from Competitors,"Adamawa , Nigeria",100
+CUST0374,Oghene Oliver,1-Jan-25,50,Benue,Mobile SIM Card,Female,5,Excellent,9,12.5GB Monthly Plan,5500,11,60500,8394,Yes,Poor Customer Service,"Benue , Nigeria",100
+CUST0388,Tega Cervantes,1-Jan-25,30,Taraba,Mobile SIM Card,Male,3,Good,9,7GB Monthly Plan,3500,2,7000,1895,Yes,Relocation,"Taraba , Nigeria",100
+CUST0403,Ibim Soto,1-Jan-25,30,Niger,5G Broadband Router,Male,5,Excellent,30,30GB Monthly Broadband Plan,9000,16,144000,1691,Yes,Better Offers from Competitors,"Niger , Nigeria",100
+CUST0403,Ibim Soto,1-Jan-25,30,Niger,Mobile SIM Card,Male,5,Excellent,30,3.2GB 2-Day Plan,1000,15,15000,7726,Yes,Better Offers from Competitors,"Niger , Nigeria",100
+CUST0405,Chinedu Brown,1-Jan-25,31,Plateau,4G Router,Female,2,Fair,26,165GB Monthly Plan,35000,14,490000,2499,Yes,Poor Customer Service,"Plateau , Nigeria",100
+CUST0405,Chinedu Brown,1-Jan-25,31,Plateau,5G Broadband Router,Female,2,Fair,26,1.5TB Yearly Broadband Plan,150000,19,2850000,5606,Yes,Poor Customer Service,"Plateau , Nigeria",100
+CUST0417,Zina Hernandez,1-Jan-25,50,Adamawa,4G Router,Female,5,Excellent,60,10GB+10mins Monthly Plan,4500,10,45000,14941,Yes,Fast Data Consumption,"Adamawa , Nigeria",100
+CUST0432,Amina Espinoza,1-Jan-25,80,Yobe,Mobile SIM Card,Female,2,Fair,57,3.2GB 2-Day Plan,1000,5,5000,63,Yes,High Call Tarriffs,"Yobe , Nigeria",100
+CUST0432,Amina Espinoza,1-Jan-25,80,Yobe,Broadband MiFi,Female,2,Fair,57,60GB Monthly Broadband Plan,14500,9,130500,1744,Yes,High Call Tarriffs,"Yobe , Nigeria",100
+CUST0432,Amina Espinoza,1-Jan-25,80,Yobe,4G Router,Female,2,Fair,57,25GB Monthly Plan,9000,10,90000,18528,Yes,High Call Tarriffs,"Yobe , Nigeria",100
+CUST0436,Abubakar Bullock,1-Jan-25,31,Kebbi,Mobile SIM Card,Female,3,Good,38,1GB+1.5mins Daily Plan,500,1,500,11904,Yes,Poor Network,"Kebbi , Nigeria",100
+CUST0436,Abubakar Bullock,1-Jan-25,31,Kebbi,4G Router,Female,3,Good,38,25GB Monthly Plan,9000,20,180000,19397,Yes,Poor Network,"Kebbi , Nigeria",100
+CUST0438,Chinedu Ramos,1-Jan-25,67,Edo,Mobile SIM Card,Male,1,Poor,16,20GB Monthly Plan,7500,5,37500,5734,Yes,Poor Customer Service,"Edo , Nigeria",100
+CUST0442,Sade Johnson,1-Jan-25,25,Rivers,5G Broadband Router,Male,4,Very Good,33,150GB FUP Monthly Unlimited,20000,1,20000,15385,Yes,High Call Tarriffs,"Rivers , Nigeria",100
+CUST0442,Sade Johnson,1-Jan-25,25,Rivers,4G Router,Male,4,Very Good,33,65GB Monthly Plan,16000,15,240000,14823,Yes,High Call Tarriffs,"Rivers , Nigeria",100
+CUST0442,Sade Johnson,1-Jan-25,25,Rivers,Mobile SIM Card,Male,4,Very Good,33,1.5GB 2-Day Plan,600,13,7800,15734,Yes,High Call Tarriffs,"Rivers , Nigeria",100
+CUST0489,Oghene Wilson,1-Jan-25,41,Benue,Mobile SIM Card,Male,3,Good,51,7GB Monthly Plan,3500,14,49000,12341,Yes,Fast Data Consumption,"Benue , Nigeria",100
+CUST0489,Oghene Wilson,1-Jan-25,41,Benue,5G Broadband Router,Male,3,Good,51,200GB Monthly Broadband Plan,25000,15,375000,3287,Yes,Fast Data Consumption,"Benue , Nigeria",100
+CUST0489,Oghene Wilson,1-Jan-25,41,Benue,4G Router,Male,3,Good,51,65GB Monthly Plan,16000,1,16000,9944,Yes,Fast Data Consumption,"Benue , Nigeria",100
+CUST0496,Grace Matthews,1-Jan-25,76,Akwa Ibom,4G Router,Female,2,Fair,41,10GB+10mins Monthly Plan,4500,13,58500,6155,Yes,Poor Customer Service,"Akwa Ibom , Nigeria",100
+CUST0496,Grace Matthews,1-Jan-25,76,Akwa Ibom,Mobile SIM Card,Female,2,Fair,41,1.5GB 2-Day Plan,600,12,7200,18713,Yes,Poor Customer Service,"Akwa Ibom , Nigeria",100
+CUST0002,Zainab Baker,1-Mar-25,16,Abuja (FCT),Mobile SIM Card,Female,2,Fair,22,12.5GB Monthly Plan,5500,12,66000,1979,Yes,Better Offers from Competitors,"Abuja (FCT) , Nigeria",100
+CUST0007,Boma Stewart,1-Mar-25,24,Jigawa,Broadband MiFi,Female,5,Excellent,39,120GB Monthly Broadband Plan,24000,11,264000,1503,Yes,Relocation,"Jigawa , Nigeria",100
+CUST0020,Amaka Reed,1-Mar-25,49,Abuja (FCT),4G Router,Female,5,Excellent,36,25GB Monthly Plan,9000,5,45000,11671,Yes,Poor Network,"Abuja (FCT) , Nigeria",100
+CUST0020,Amaka Reed,1-Mar-25,49,Abuja (FCT),5G Broadband Router,Female,5,Excellent,36,450GB 3-Month Broadband Plan,75000,10,750000,2593,Yes,Poor Network,"Abuja (FCT) , Nigeria",100
+CUST0020,Amaka Reed,1-Mar-25,49,Abuja (FCT),Broadband MiFi,Female,5,Excellent,36,300GB FUP Monthly Unlimited,30000,2,60000,17985,Yes,Poor Network,"Abuja (FCT) , Nigeria",100
+CUST0030,Alabo Davis,1-Mar-25,49,Imo,5G Broadband Router,Female,2,Fair,50,200GB Monthly Broadband Plan,25000,18,450000,6428,Yes,Poor Network,"Imo , Nigeria",100
+CUST0030,Alabo Davis,1-Mar-25,49,Imo,Broadband MiFi,Female,2,Fair,50,30GB Monthly Broadband Plan,9000,8,72000,2811,Yes,Poor Network,"Imo , Nigeria",100
+CUST0030,Alabo Davis,1-Mar-25,49,Imo,4G Router,Female,2,Fair,50,165GB Monthly Plan,35000,7,245000,13894,Yes,Poor Network,"Imo , Nigeria",100
+CUST0031,Kunle West,1-Mar-25,69,Kogi,Mobile SIM Card,Female,4,Very Good,35,2.5GB 2-Day Plan,900,19,17100,17142,Yes,Better Offers from Competitors,"Kogi , Nigeria",100
+CUST0058,Ngozi Brown,1-Mar-25,28,Nasarawa,5G Broadband Router,Male,1,Poor,45,200GB Monthly Broadband Plan,25000,5,125000,7528,Yes,Better Offers from Competitors,"Nasarawa , Nigeria",100
+CUST0069,Tunde Oliver,1-Mar-25,51,Plateau,4G Router,Male,2,Fair,35,65GB Monthly Plan,16000,8,128000,7197,Yes,Better Offers from Competitors,"Plateau , Nigeria",100
+CUST0083,Shehu Holt,1-Mar-25,79,Sokoto,Mobile SIM Card,Female,3,Good,44,1GB+1.5mins Daily Plan,500,19,9500,15937,Yes,Poor Network,"Sokoto , Nigeria",100
+CUST0083,Shehu Holt,1-Mar-25,79,Sokoto,5G Broadband Router,Female,3,Good,44,30GB Monthly Broadband Plan,9000,3,27000,7071,Yes,Poor Network,"Sokoto , Nigeria",100
+CUST0084,Maryam Velez,1-Mar-25,75,Nasarawa,Mobile SIM Card,Male,3,Good,4,12.5GB Monthly Plan,5500,2,11000,11628,Yes,Better Offers from Competitors,"Nasarawa , Nigeria",100
+CUST0088,Amaka Brown,1-Mar-25,27,Kwara,Mobile SIM Card,Female,3,Good,2,500MB Daily Plan,350,5,1750,200,Yes,Poor Customer Service,"Kwara , Nigeria",100
+CUST0088,Amaka Brown,1-Mar-25,27,Kwara,Broadband MiFi,Female,3,Good,2,30GB Monthly Broadband Plan,9000,4,36000,5951,Yes,Poor Customer Service,"Kwara , Nigeria",100
+CUST0102,Ifeanyi Burns,1-Mar-25,49,Edo,Mobile SIM Card,Female,4,Very Good,14,1.5GB 2-Day Plan,600,15,9000,17979,Yes,Poor Customer Service,"Edo , Nigeria",100
+CUST0116,Bola Garcia,1-Mar-25,30,Benue,Mobile SIM Card,Male,4,Very Good,29,16.5GB+10mins Monthly Plan,6500,16,104000,15511,Yes,High Call Tarriffs,"Benue , Nigeria",100
+CUST0120,Fatima Lindsey,1-Mar-25,41,Adamawa,4G Router,Female,2,Fair,60,10GB+10mins Monthly Plan,4500,2,9000,12777,Yes,High Call Tarriffs,"Adamawa , Nigeria",100
+CUST0120,Fatima Lindsey,1-Mar-25,41,Adamawa,Broadband MiFi,Female,2,Fair,60,30GB Monthly Broadband Plan,9000,16,144000,8295,Yes,High Call Tarriffs,"Adamawa , Nigeria",100
+CUST0120,Fatima Lindsey,1-Mar-25,41,Adamawa,5G Broadband Router,Female,2,Fair,60,150GB FUP Monthly Unlimited,20000,5,100000,1364,Yes,High Call Tarriffs,"Adamawa , Nigeria",100
+CUST0139,Saidu Holt,1-Mar-25,78,Yobe,4G Router,Female,2,Fair,11,65GB Monthly Plan,16000,3,48000,10503,Yes,Relocation,"Yobe , Nigeria",100
+CUST0139,Saidu Holt,1-Mar-25,78,Yobe,5G Broadband Router,Female,2,Fair,11,30GB Monthly Broadband Plan,9000,14,126000,15299,Yes,Relocation,"Yobe , Nigeria",100
+CUST0168,Abubakar Weiss,1-Mar-25,59,Borno,Broadband MiFi,Female,1,Poor,51,150GB FUP Monthly Unlimited,20000,1,20000,8854,Yes,High Call Tarriffs,"Borno , Nigeria",100
+CUST0168,Abubakar Weiss,1-Mar-25,59,Borno,Mobile SIM Card,Female,1,Poor,51,20GB Monthly Plan,7500,5,37500,4086,Yes,High Call Tarriffs,"Borno , Nigeria",100
+CUST0169,Maryam Dean,1-Mar-25,36,Akwa Ibom,4G Router,Male,3,Good,42,25GB Monthly Plan,9000,8,72000,14533,Yes,High Call Tarriffs,"Akwa Ibom , Nigeria",100
+CUST0169,Maryam Dean,1-Mar-25,36,Akwa Ibom,Broadband MiFi,Male,3,Good,42,60GB Monthly Broadband Plan,14500,4,58000,13127,Yes,High Call Tarriffs,"Akwa Ibom , Nigeria",100
+CUST0169,Maryam Dean,1-Mar-25,36,Akwa Ibom,Mobile SIM Card,Male,3,Good,42,2.5GB 2-Day Plan,900,3,2700,4308,Yes,High Call Tarriffs,"Akwa Ibom , Nigeria",100
+CUST0195,Oghene Munoz,1-Mar-25,44,Enugu,Mobile SIM Card,Female,2,Fair,20,1.5GB 2-Day Plan,600,20,12000,12068,Yes,Poor Network,"Enugu , Nigeria",100
+CUST0195,Oghene Munoz,1-Mar-25,44,Enugu,5G Broadband Router,Female,2,Fair,20,60GB Monthly Broadband Plan,14500,4,58000,12811,Yes,Poor Network,"Enugu , Nigeria",100
+CUST0195,Oghene Munoz,1-Mar-25,44,Enugu,Broadband MiFi,Female,2,Fair,20,60GB Monthly Broadband Plan,14500,3,43500,2856,Yes,Poor Network,"Enugu , Nigeria",100
+CUST0206,Ngozi Wood,1-Mar-25,29,Anambra,Mobile SIM Card,Female,4,Very Good,56,1.5GB 2-Day Plan,600,5,3000,5545,Yes,High Call Tarriffs,"Anambra , Nigeria",100
+CUST0206,Ngozi Wood,1-Mar-25,29,Anambra,Broadband MiFi,Female,4,Very Good,56,120GB Monthly Broadband Plan,24000,13,312000,12193,Yes,High Call Tarriffs,"Anambra , Nigeria",100
+CUST0216,John Erickson,1-Mar-25,32,Edo,5G Broadband Router,Male,1,Poor,44,200GB Monthly Broadband Plan,25000,10,250000,5248,Yes,Poor Customer Service,"Edo , Nigeria",100
+CUST0216,John Erickson,1-Mar-25,32,Edo,4G Router,Male,1,Poor,44,165GB Monthly Plan,35000,16,560000,17032,Yes,Poor Customer Service,"Edo , Nigeria",100
+CUST0216,John Erickson,1-Mar-25,32,Edo,Mobile SIM Card,Male,1,Poor,44,2.5GB 2-Day Plan,900,19,17100,17335,Yes,Poor Customer Service,"Edo , Nigeria",100
+CUST0220,Bala Smith,1-Mar-25,18,Lagos,Mobile SIM Card,Male,3,Good,15,2.5GB 2-Day Plan,900,10,9000,5999,Yes,Fast Data Consumption,"Lagos , Nigeria",100
+CUST0247,Chinedu Yates,1-Mar-25,25,Oyo,5G Broadband Router,Male,5,Excellent,51,450GB 3-Month Broadband Plan,75000,13,975000,7791,Yes,Better Offers from Competitors,"Oyo , Nigeria",100
+CUST0252,Bala Graham,1-Mar-25,56,Yobe,5G Broadband Router,Female,5,Excellent,22,300GB FUP Monthly Unlimited,30000,8,240000,146,Yes,Relocation,"Yobe , Nigeria",100
+CUST0252,Bala Graham,1-Mar-25,56,Yobe,Mobile SIM Card,Female,5,Excellent,22,10GB+10mins Monthly Plan,4500,14,63000,14258,Yes,Relocation,"Yobe , Nigeria",100
+CUST0274,Bola Duffy,1-Mar-25,77,Gombe,5G Broadband Router,Female,4,Very Good,32,300GB FUP Monthly Unlimited,30000,14,420000,113,Yes,Better Offers from Competitors,"Gombe , Nigeria",100
+CUST0274,Bola Duffy,1-Mar-25,77,Gombe,Mobile SIM Card,Female,4,Very Good,32,165GB Monthly Plan,35000,2,70000,18796,Yes,Better Offers from Competitors,"Gombe , Nigeria",100
+CUST0274,Bola Duffy,1-Mar-25,77,Gombe,Broadband MiFi,Female,4,Very Good,32,120GB Monthly Broadband Plan,24000,6,144000,6978,Yes,Better Offers from Competitors,"Gombe , Nigeria",100
+CUST0279,Alabo Carlson,1-Mar-25,58,Edo,Mobile SIM Card,Female,3,Good,24,10GB+10mins Monthly Plan,4500,10,45000,19588,Yes,Poor Network,"Edo , Nigeria",100
+CUST0279,Alabo Carlson,1-Mar-25,58,Edo,5G Broadband Router,Female,3,Good,24,200GB Monthly Broadband Plan,25000,17,425000,6536,Yes,Poor Network,"Edo , Nigeria",100
+CUST0343,Zina Diaz,1-Mar-25,57,Anambra,Mobile SIM Card,Female,4,Very Good,12,2.5GB 2-Day Plan,900,5,4500,1856,Yes,Poor Network,"Anambra , Nigeria",100
+CUST0343,Zina Diaz,1-Mar-25,57,Anambra,4G Router,Female,4,Very Good,12,65GB Monthly Plan,16000,5,80000,15154,Yes,Poor Network,"Anambra , Nigeria",100
+CUST0343,Zina Diaz,1-Mar-25,57,Anambra,5G Broadband Router,Female,4,Very Good,12,1.5TB Yearly Broadband Plan,150000,13,1950000,10649,Yes,Poor Network,"Anambra , Nigeria",100
+CUST0377,Chinedu Christian,1-Mar-25,17,Kogi,Mobile SIM Card,Male,3,Good,9,1GB+1.5mins Daily Plan,500,15,7500,3278,Yes,Poor Network,"Kogi , Nigeria",100
+CUST0382,Ifeanyi Cooper,1-Mar-25,76,Adamawa,Broadband MiFi,Female,1,Poor,29,60GB Monthly Broadband Plan,14500,10,145000,17964,Yes,Fast Data Consumption,"Adamawa , Nigeria",100
+CUST0401,Ifeanyi Adkins,1-Mar-25,42,Benue,5G Broadband Router,Male,1,Poor,43,200GB Monthly Broadband Plan,25000,17,425000,3253,Yes,Better Offers from Competitors,"Benue , Nigeria",100
+CUST0401,Ifeanyi Adkins,1-Mar-25,42,Benue,Mobile SIM Card,Male,1,Poor,43,500MB Daily Plan,350,3,1050,10123,Yes,Better Offers from Competitors,"Benue , Nigeria",100
+CUST0401,Ifeanyi Adkins,1-Mar-25,42,Benue,4G Router,Male,1,Poor,43,65GB Monthly Plan,16000,1,16000,16401,Yes,Better Offers from Competitors,"Benue , Nigeria",100
+CUST0412,Oghene Bartlett,1-Mar-25,23,Imo,5G Broadband Router,Male,5,Excellent,16,150GB FUP Monthly Unlimited,20000,1,20000,6785,Yes,High Call Tarriffs,"Imo , Nigeria",100
+CUST0439,Ifeanyi Zimmerman,1-Mar-25,54,Yobe,5G Broadband Router,Female,5,Excellent,48,60GB Monthly Broadband Plan,14500,13,188500,9818,Yes,High Call Tarriffs,"Yobe , Nigeria",100
+CUST0446,Halima Lambert,1-Mar-25,71,Adamawa,Broadband MiFi,Male,4,Very Good,6,150GB FUP Monthly Unlimited,20000,15,300000,18053,Yes,Fast Data Consumption,"Adamawa , Nigeria",100
+CUST0449,Funke Chung,1-Mar-25,36,Cross River,5G Broadband Router,Male,4,Very Good,31,300GB FUP Monthly Unlimited,30000,13,390000,17669,Yes,Poor Customer Service,"Cross River , Nigeria",100
+CUST0449,Funke Chung,1-Mar-25,36,Cross River,Mobile SIM Card,Male,4,Very Good,31,20GB Monthly Plan,7500,12,90000,1667,Yes,Poor Customer Service,"Cross River , Nigeria",100
+CUST0449,Funke Chung,1-Mar-25,36,Cross River,4G Router,Male,4,Very Good,31,165GB Monthly Plan,35000,6,210000,16005,Yes,Poor Customer Service,"Cross River , Nigeria",100
+CUST0461,Halima Walker,1-Mar-25,29,Niger,Mobile SIM Card,Male,4,Very Good,53,3.2GB 2-Day Plan,1000,5,5000,1291,Yes,High Call Tarriffs,"Niger , Nigeria",100
+CUST0461,Halima Walker,1-Mar-25,29,Niger,Broadband MiFi,Male,4,Very Good,53,60GB Monthly Broadband Plan,14500,3,43500,4335,Yes,High Call Tarriffs,"Niger , Nigeria",100
+CUST0464,Ifeanyi Smith,1-Mar-25,63,Abia,Mobile SIM Card,Female,4,Very Good,20,2.5GB 2-Day Plan,900,10,9000,1874,Yes,Poor Customer Service,"Abia , Nigeria",100
+CUST0474,Alabo Moreno,1-Mar-25,21,Lagos,5G Broadband Router,Female,2,Fair,54,450GB 3-Month Broadband Plan,75000,7,525000,19985,Yes,Fast Data Consumption,"Lagos , Nigeria",100
+CUST0474,Alabo Moreno,1-Mar-25,21,Lagos,Mobile SIM Card,Female,2,Fair,54,16.5GB+10mins Monthly Plan,6500,6,39000,5662,Yes,Fast Data Consumption,"Lagos , Nigeria",100
+CUST0011,Ejiro Griffith,1-Feb-25,72,Bauchi,4G Router,Female,2,Fair,8,65GB Monthly Plan,16000,2,32000,1466,Yes,Poor Network,"Bauchi , Nigeria",100
+CUST0011,Ejiro Griffith,1-Feb-25,72,Bauchi,5G Broadband Router,Female,2,Fair,8,60GB Monthly Broadband Plan,14500,2,29000,1395,Yes,Poor Network,"Bauchi , Nigeria",100
+CUST0011,Ejiro Griffith,1-Feb-25,72,Bauchi,Broadband MiFi,Female,2,Fair,8,300GB FUP Monthly Unlimited,30000,8,240000,1464,Yes,Poor Network,"Bauchi , Nigeria",100
+CUST0031,Kunle West,1-Feb-25,69,Kogi,5G Broadband Router,Female,4,Very Good,35,450GB 3-Month Broadband Plan,75000,12,900000,9566,Yes,Better Offers from Competitors,"Kogi , Nigeria",100
+CUST0038,Shehu Randall,1-Feb-25,50,Adamawa,Broadband MiFi,Female,5,Excellent,30,300GB FUP Monthly Unlimited,30000,8,240000,17639,Yes,Better Offers from Competitors,"Adamawa , Nigeria",100
+CUST0049,Zainab Taylor,1-Feb-25,21,Enugu,Mobile SIM Card,Female,3,Good,34,12.5GB Monthly Plan,5500,11,60500,6992,Yes,Relocation,"Enugu , Nigeria",100
+CUST0049,Zainab Taylor,1-Feb-25,21,Enugu,Broadband MiFi,Female,3,Good,34,300GB FUP Monthly Unlimited,30000,6,180000,13419,Yes,Relocation,"Enugu , Nigeria",100
+CUST0050,Tega Stevens,1-Feb-25,68,Yobe,5G Broadband Router,Female,5,Excellent,43,150GB FUP Monthly Unlimited,20000,13,260000,19405,Yes,Poor Network,"Yobe , Nigeria",100
+CUST0050,Tega Stevens,1-Feb-25,68,Yobe,4G Router,Female,5,Excellent,43,65GB Monthly Plan,16000,18,288000,1317,Yes,Poor Network,"Yobe , Nigeria",100
+CUST0052,Halima Johnston,1-Feb-25,36,Abia,Mobile SIM Card,Male,1,Poor,36,3.2GB 2-Day Plan,1000,5,5000,12972,Yes,Better Offers from Competitors,"Abia , Nigeria",100
+CUST0053,Grace Christensen,1-Feb-25,53,Zamfara,Mobile SIM Card,Female,4,Very Good,27,500MB Daily Plan,350,17,5950,18441,Yes,Relocation,"Zamfara , Nigeria",100
+CUST0057,Chinedu Davis,1-Feb-25,58,Adamawa,5G Broadband Router,Female,5,Excellent,21,60GB Monthly Broadband Plan,14500,14,203000,14948,Yes,Poor Network,"Adamawa , Nigeria",100
+CUST0068,Halima Anderson,1-Feb-25,32,Ondo,5G Broadband Router,Male,5,Excellent,54,300GB FUP Monthly Unlimited,30000,20,600000,15783,Yes,Better Offers from Competitors,"Ondo , Nigeria",100
+CUST0081,Chinedu Ortiz,1-Feb-25,71,Anambra,5G Broadband Router,Male,5,Excellent,28,200GB Monthly Broadband Plan,25000,3,75000,15593,Yes,Better Offers from Competitors,"Anambra , Nigeria",100
+CUST0081,Chinedu Ortiz,1-Feb-25,71,Anambra,Broadband MiFi,Male,5,Excellent,28,120GB Monthly Broadband Plan,24000,17,408000,12683,Yes,Better Offers from Competitors,"Anambra , Nigeria",100
+CUST0089,Michael Schultz,1-Feb-25,20,Bayelsa,4G Router,Male,2,Fair,39,65GB Monthly Plan,16000,8,128000,8247,Yes,Better Offers from Competitors,"Bayelsa , Nigeria",100
+CUST0089,Michael Schultz,1-Feb-25,20,Bayelsa,5G Broadband Router,Male,2,Fair,39,1.5TB Yearly Broadband Plan,150000,15,2250000,12231,Yes,Better Offers from Competitors,"Bayelsa , Nigeria",100
+CUST0089,Michael Schultz,1-Feb-25,20,Bayelsa,Mobile SIM Card,Male,2,Fair,39,500MB Daily Plan,350,10,3500,10704,Yes,Better Offers from Competitors,"Bayelsa , Nigeria",100
+CUST0094,Maryam Tucker,1-Feb-25,31,Oyo,Broadband MiFi,Male,1,Poor,27,150GB FUP Monthly Unlimited,20000,1,20000,5861,Yes,Fast Data Consumption,"Oyo , Nigeria",100
+CUST0094,Maryam Tucker,1-Feb-25,31,Oyo,5G Broadband Router,Male,1,Poor,27,200GB Monthly Broadband Plan,25000,14,350000,4849,Yes,Fast Data Consumption,"Oyo , Nigeria",100
+CUST0094,Maryam Tucker,1-Feb-25,31,Oyo,Mobile SIM Card,Male,1,Poor,27,1.5GB 2-Day Plan,600,3,1800,13304,Yes,Fast Data Consumption,"Oyo , Nigeria",100
+CUST0097,Ese Perez,1-Feb-25,55,Zamfara,5G Broadband Router,Female,3,Good,53,200GB Monthly Broadband Plan,25000,2,50000,1725,Yes,High Call Tarriffs,"Zamfara , Nigeria",100
+CUST0109,Tamuno Bates,1-Feb-25,32,Gombe,Mobile SIM Card,Male,4,Very Good,21,65GB Monthly Plan,16000,13,208000,106,Yes,Fast Data Consumption,"Gombe , Nigeria",100
+CUST0112,Bala Smith,1-Feb-25,62,Cross River,Broadband MiFi,Male,5,Excellent,25,60GB Monthly Broadband Plan,14500,11,159500,7495,Yes,Relocation,"Cross River , Nigeria",100
+CUST0112,Bala Smith,1-Feb-25,62,Cross River,Mobile SIM Card,Male,5,Excellent,25,16.5GB+10mins Monthly Plan,6500,5,32500,18782,Yes,Relocation,"Cross River , Nigeria",100
+CUST0112,Bala Smith,1-Feb-25,62,Cross River,5G Broadband Router,Male,5,Excellent,25,60GB Monthly Broadband Plan,14500,13,188500,12069,Yes,Relocation,"Cross River , Nigeria",100
+CUST0114,Amina Todd,1-Feb-25,66,Abia,5G Broadband Router,Female,5,Excellent,33,200GB Monthly Broadband Plan,25000,14,350000,13492,Yes,Better Offers from Competitors,"Abia , Nigeria",100
+CUST0124,Shehu Nguyen,1-Feb-25,33,Taraba,5G Broadband Router,Female,1,Poor,60,120GB Monthly Broadband Plan,24000,19,456000,1167,Yes,Poor Customer Service,"Taraba , Nigeria",100
+CUST0124,Shehu Nguyen,1-Feb-25,33,Taraba,4G Router,Female,1,Poor,60,65GB Monthly Plan,16000,12,192000,5268,Yes,Poor Customer Service,"Taraba , Nigeria",100
+CUST0133,Oghene Cooper,1-Feb-25,64,Bauchi,Mobile SIM Card,Female,4,Very Good,45,500MB Daily Plan,350,10,3500,16994,Yes,Fast Data Consumption,"Bauchi , Nigeria",100
+CUST0134,Obinna Branch,1-Feb-25,75,Oyo,Broadband MiFi,Female,4,Very Good,27,300GB FUP Monthly Unlimited,30000,7,210000,1895,Yes,Poor Customer Service,"Oyo , Nigeria",100
+CUST0134,Obinna Branch,1-Feb-25,75,Oyo,4G Router,Female,4,Very Good,27,65GB Monthly Plan,16000,20,320000,5406,Yes,Poor Customer Service,"Oyo , Nigeria",100
+CUST0146,Tamuno Boyd,1-Feb-25,57,Kano,Mobile SIM Card,Female,4,Very Good,51,20GB Monthly Plan,7500,20,150000,176,Yes,Relocation,"Kano , Nigeria",100
+CUST0146,Tamuno Boyd,1-Feb-25,57,Kano,Broadband MiFi,Female,4,Very Good,51,300GB FUP Monthly Unlimited,30000,3,90000,15971,Yes,Relocation,"Kano , Nigeria",100
+CUST0152,Tamuno Yang,1-Feb-25,62,Delta,4G Router,Male,5,Excellent,38,25GB Monthly Plan,9000,3,27000,16634,Yes,High Call Tarriffs,"Delta , Nigeria",100
+CUST0152,Tamuno Yang,1-Feb-25,62,Delta,Mobile SIM Card,Male,5,Excellent,38,20GB Monthly Plan,7500,5,37500,13476,Yes,High Call Tarriffs,"Delta , Nigeria",100
+CUST0153,Maryam Williams,1-Feb-25,46,Edo,Mobile SIM Card,Male,4,Very Good,46,16.5GB+10mins Monthly Plan,6500,14,91000,18474,Yes,Relocation,"Edo , Nigeria",100
+CUST0153,Maryam Williams,1-Feb-25,46,Edo,5G Broadband Router,Male,4,Very Good,46,30GB Monthly Broadband Plan,9000,12,108000,15825,Yes,Relocation,"Edo , Nigeria",100
+CUST0161,Michael Wilson,1-Feb-25,65,Kogi,4G Router,Male,4,Very Good,37,165GB Monthly Plan,35000,6,210000,5812,Yes,High Call Tarriffs,"Kogi , Nigeria",100
+CUST0161,Michael Wilson,1-Feb-25,65,Kogi,5G Broadband Router,Male,4,Very Good,37,200GB Monthly Broadband Plan,25000,20,500000,16848,Yes,High Call Tarriffs,"Kogi , Nigeria",100
+CUST0161,Michael Wilson,1-Feb-25,65,Kogi,Broadband MiFi,Male,4,Very Good,37,30GB Monthly Broadband Plan,9000,1,9000,17317,Yes,High Call Tarriffs,"Kogi , Nigeria",100
+CUST0179,Bola Curtis,1-Feb-25,69,Osun,5G Broadband Router,Female,3,Good,16,300GB FUP Monthly Unlimited,30000,17,510000,4503,Yes,Poor Network,"Osun , Nigeria",100
+CUST0179,Bola Curtis,1-Feb-25,69,Osun,Broadband MiFi,Female,3,Good,16,30GB Monthly Broadband Plan,9000,3,27000,19084,Yes,Poor Network,"Osun , Nigeria",100
+CUST0179,Bola Curtis,1-Feb-25,69,Osun,Mobile SIM Card,Female,3,Good,16,12.5GB Monthly Plan,5500,10,55000,17327,Yes,Poor Network,"Osun , Nigeria",100
+CUST0186,Halima Harrison,1-Feb-25,28,Sokoto,4G Router,Male,1,Poor,52,10GB+10mins Monthly Plan,4500,12,54000,16482,Yes,Better Offers from Competitors,"Sokoto , Nigeria",100
+CUST0191,Sarah Meyer,1-Feb-25,61,Osun,Broadband MiFi,Male,2,Fair,7,300GB FUP Monthly Unlimited,30000,6,180000,18707,Yes,Better Offers from Competitors,"Osun , Nigeria",100
+CUST0191,Sarah Meyer,1-Feb-25,61,Osun,Mobile SIM Card,Male,2,Fair,7,1.5GB 2-Day Plan,600,11,6600,4769,Yes,Better Offers from Competitors,"Osun , Nigeria",100
+CUST0191,Sarah Meyer,1-Feb-25,61,Osun,4G Router,Male,2,Fair,7,25GB Monthly Plan,9000,1,9000,18284,Yes,Better Offers from Competitors,"Osun , Nigeria",100
+CUST0202,Shehu Hays,1-Feb-25,63,Jigawa,4G Router,Female,1,Poor,12,65GB Monthly Plan,16000,4,64000,3065,Yes,Fast Data Consumption,"Jigawa , Nigeria",100
+CUST0202,Shehu Hays,1-Feb-25,63,Jigawa,Mobile SIM Card,Female,1,Poor,12,3.2GB 2-Day Plan,1000,18,18000,13379,Yes,Fast Data Consumption,"Jigawa , Nigeria",100
+CUST0204,Obinna Patterson,1-Feb-25,31,Nasarawa,Mobile SIM Card,Male,2,Fair,11,500MB Daily Plan,350,5,1750,19946,Yes,Fast Data Consumption,"Nasarawa , Nigeria",100
+CUST0208,Ngozi Acevedo,1-Feb-25,45,Borno,Broadband MiFi,Female,3,Good,48,150GB FUP Monthly Unlimited,20000,14,280000,18273,Yes,Fast Data Consumption,"Borno , Nigeria",100
+CUST0208,Ngozi Acevedo,1-Feb-25,45,Borno,Mobile SIM Card,Female,3,Good,48,12.5GB Monthly Plan,5500,12,66000,15202,Yes,Fast Data Consumption,"Borno , Nigeria",100
+CUST0208,Ngozi Acevedo,1-Feb-25,45,Borno,4G Router,Female,3,Good,48,65GB Monthly Plan,16000,6,96000,1033,Yes,Fast Data Consumption,"Borno , Nigeria",100
+CUST0217,Kunle Collins,1-Feb-25,76,Benue,4G Router,Male,5,Excellent,56,10GB+10mins Monthly Plan,4500,19,85500,6886,Yes,Poor Network,"Benue , Nigeria",100
+CUST0225,Bala Cummings,1-Feb-25,41,Edo,Mobile SIM Card,Male,3,Good,23,165GB Monthly Plan,35000,1,35000,6646,Yes,Relocation,"Edo , Nigeria",100
+CUST0225,Bala Cummings,1-Feb-25,41,Edo,5G Broadband Router,Male,3,Good,23,30GB Monthly Broadband Plan,9000,4,36000,13449,Yes,Relocation,"Edo , Nigeria",100
+CUST0228,Zina Fuller,1-Feb-25,50,Jigawa,Broadband MiFi,Female,2,Fair,52,60GB Monthly Broadband Plan,14500,16,232000,18229,Yes,High Call Tarriffs,"Jigawa , Nigeria",100
+CUST0228,Zina Fuller,1-Feb-25,50,Jigawa,Mobile SIM Card,Female,2,Fair,52,12.5GB Monthly Plan,5500,13,71500,3666,Yes,High Call Tarriffs,"Jigawa , Nigeria",100
+CUST0228,Zina Fuller,1-Feb-25,50,Jigawa,5G Broadband Router,Female,2,Fair,52,200GB Monthly Broadband Plan,25000,5,125000,12247,Yes,High Call Tarriffs,"Jigawa , Nigeria",100
+CUST0234,Bala Hardin,1-Feb-25,31,Kebbi,Broadband MiFi,Male,3,Good,30,60GB Monthly Broadband Plan,14500,19,275500,9175,Yes,Fast Data Consumption,"Kebbi , Nigeria",100
+CUST0256,Alabo Smith,1-Feb-25,36,Enugu,4G Router,Male,3,Good,48,25GB Monthly Plan,9000,2,18000,742,Yes,Better Offers from Competitors,"Enugu , Nigeria",100
+CUST0256,Alabo Smith,1-Feb-25,36,Enugu,Broadband MiFi,Male,3,Good,48,150GB FUP Monthly Unlimited,20000,12,240000,10382,Yes,Better Offers from Competitors,"Enugu , Nigeria",100
+CUST0258,Sarah Munoz,1-Feb-25,67,Ekiti,Mobile SIM Card,Female,5,Excellent,32,65GB Monthly Plan,16000,9,144000,10315,Yes,Poor Customer Service,"Ekiti , Nigeria",100
+CUST0258,Sarah Munoz,1-Feb-25,67,Ekiti,Broadband MiFi,Female,5,Excellent,32,150GB FUP Monthly Unlimited,20000,6,120000,3047,Yes,Poor Customer Service,"Ekiti , Nigeria",100
+CUST0260,Amina Johns,1-Feb-25,33,Zamfara,Mobile SIM Card,Male,1,Poor,58,1GB+1.5mins Daily Plan,500,7,3500,18948,Yes,Poor Customer Service,"Zamfara , Nigeria",100
+CUST0260,Amina Johns,1-Feb-25,33,Zamfara,5G Broadband Router,Male,1,Poor,58,1.5TB Yearly Broadband Plan,150000,16,2400000,1215,Yes,Poor Customer Service,"Zamfara , Nigeria",100
+CUST0260,Amina Johns,1-Feb-25,33,Zamfara,Broadband MiFi,Male,1,Poor,58,60GB Monthly Broadband Plan,14500,14,203000,3453,Yes,Poor Customer Service,"Zamfara , Nigeria",100
+CUST0262,Funke Alexander,1-Feb-25,41,Bauchi,Broadband MiFi,Female,5,Excellent,53,30GB Monthly Broadband Plan,9000,5,45000,9671,Yes,Fast Data Consumption,"Bauchi , Nigeria",100
+CUST0262,Funke Alexander,1-Feb-25,41,Bauchi,5G Broadband Router,Female,5,Excellent,53,30GB Monthly Broadband Plan,9000,14,126000,17945,Yes,Fast Data Consumption,"Bauchi , Nigeria",100
+CUST0262,Funke Alexander,1-Feb-25,41,Bauchi,Mobile SIM Card,Female,5,Excellent,53,16.5GB+10mins Monthly Plan,6500,2,13000,8443,Yes,Fast Data Consumption,"Bauchi , Nigeria",100
+CUST0276,Zainab Rogers,1-Feb-25,76,Bayelsa,5G Broadband Router,Female,4,Very Good,12,120GB Monthly Broadband Plan,24000,19,456000,9042,Yes,High Call Tarriffs,"Bayelsa , Nigeria",100
+CUST0276,Zainab Rogers,1-Feb-25,76,Bayelsa,4G Router,Female,4,Very Good,12,10GB+10mins Monthly Plan,4500,8,36000,19586,Yes,High Call Tarriffs,"Bayelsa , Nigeria",100
+CUST0277,Ngozi Dunn,1-Feb-25,50,Imo,Mobile SIM Card,Female,2,Fair,55,2.5GB 2-Day Plan,900,16,14400,3573,Yes,High Call Tarriffs,"Imo , Nigeria",100
+CUST0290,Sade Ryan,1-Feb-25,50,Kebbi,Mobile SIM Card,Male,2,Fair,35,3.2GB 2-Day Plan,1000,8,8000,19493,Yes,Better Offers from Competitors,"Kebbi , Nigeria",100
+CUST0290,Sade Ryan,1-Feb-25,50,Kebbi,Broadband MiFi,Male,2,Fair,35,60GB Monthly Broadband Plan,14500,15,217500,15436,Yes,Better Offers from Competitors,"Kebbi , Nigeria",100
+CUST0292,Ese Rose,1-Feb-25,36,Rivers,4G Router,Male,3,Good,17,165GB Monthly Plan,35000,6,210000,6524,Yes,Poor Network,"Rivers , Nigeria",100
+CUST0292,Ese Rose,1-Feb-25,36,Rivers,Broadband MiFi,Male,3,Good,17,300GB FUP Monthly Unlimited,30000,13,390000,11715,Yes,Poor Network,"Rivers , Nigeria",100
+CUST0292,Ese Rose,1-Feb-25,36,Rivers,5G Broadband Router,Male,3,Good,17,60GB Monthly Broadband Plan,14500,2,29000,228,Yes,Poor Network,"Rivers , Nigeria",100
+CUST0293,John Jones,1-Feb-25,35,Gombe,Broadband MiFi,Male,4,Very Good,16,300GB FUP Monthly Unlimited,30000,18,540000,12909,Yes,Relocation,"Gombe , Nigeria",100
+CUST0293,John Jones,1-Feb-25,35,Gombe,Mobile SIM Card,Male,4,Very Good,16,3.2GB 2-Day Plan,1000,8,8000,256,Yes,Relocation,"Gombe , Nigeria",100
+CUST0300,Ibim Wilkerson,1-Feb-25,29,Ekiti,Mobile SIM Card,Female,1,Poor,45,1.5GB 2-Day Plan,600,20,12000,10701,Yes,Poor Customer Service,"Ekiti , Nigeria",100
+CUST0300,Ibim Wilkerson,1-Feb-25,29,Ekiti,5G Broadband Router,Female,1,Poor,45,1.5TB Yearly Broadband Plan,150000,11,1650000,18674,Yes,Poor Customer Service,"Ekiti , Nigeria",100
+CUST0300,Ibim Wilkerson,1-Feb-25,29,Ekiti,4G Router,Female,1,Poor,45,25GB Monthly Plan,9000,14,126000,16905,Yes,Poor Customer Service,"Ekiti , Nigeria",100
+CUST0323,Amina Nguyen,1-Feb-25,31,Katsina,4G Router,Male,3,Good,46,165GB Monthly Plan,35000,6,210000,926,Yes,High Call Tarriffs,"Katsina , Nigeria",100
+CUST0323,Amina Nguyen,1-Feb-25,31,Katsina,Mobile SIM Card,Male,3,Good,46,7GB Monthly Plan,3500,5,17500,11332,Yes,High Call Tarriffs,"Katsina , Nigeria",100
+CUST0326,Chinedu Krueger,1-Feb-25,16,Imo,Mobile SIM Card,Female,1,Poor,40,2.5GB 2-Day Plan,900,20,18000,13357,Yes,Poor Network,"Imo , Nigeria",100
+CUST0338,David Crosby,1-Feb-25,72,Oyo,Mobile SIM Card,Male,1,Poor,2,20GB Monthly Plan,7500,20,150000,3621,Yes,Poor Network,"Oyo , Nigeria",100
+CUST0339,Alabo Davis,1-Feb-25,61,Abia,4G Router,Female,5,Excellent,53,165GB Monthly Plan,35000,10,350000,199,Yes,Better Offers from Competitors,"Abia , Nigeria",100
+CUST0339,Alabo Davis,1-Feb-25,61,Abia,Broadband MiFi,Female,5,Excellent,53,60GB Monthly Broadband Plan,14500,8,116000,9437,Yes,Better Offers from Competitors,"Abia , Nigeria",100
+CUST0341,Zina Valenzuela,1-Feb-25,37,Cross River,Broadband MiFi,Female,5,Excellent,39,300GB FUP Monthly Unlimited,30000,13,390000,10678,Yes,Better Offers from Competitors,"Cross River , Nigeria",100
+CUST0341,Zina Valenzuela,1-Feb-25,37,Cross River,4G Router,Female,5,Excellent,39,165GB Monthly Plan,35000,8,280000,481,Yes,Better Offers from Competitors,"Cross River , Nigeria",100
+CUST0341,Zina Valenzuela,1-Feb-25,37,Cross River,Mobile SIM Card,Female,5,Excellent,39,16.5GB+10mins Monthly Plan,6500,16,104000,3222,Yes,Better Offers from Competitors,"Cross River , Nigeria",100
+CUST0363,Omamuzo Alexander,1-Feb-25,29,Ekiti,4G Router,Female,2,Fair,6,165GB Monthly Plan,35000,18,630000,7806,Yes,Poor Customer Service,"Ekiti , Nigeria",100
+CUST0376,Obinna Miller,1-Feb-25,16,Kogi,Mobile SIM Card,Male,5,Excellent,3,3.2GB 2-Day Plan,1000,8,8000,9076,Yes,Relocation,"Kogi , Nigeria",100
+CUST0383,Kunle Manning,1-Feb-25,29,Abuja (FCT),Broadband MiFi,Female,4,Very Good,8,120GB Monthly Broadband Plan,24000,16,384000,18638,Yes,Poor Customer Service,"Abuja (FCT) , Nigeria",100
+CUST0383,Kunle Manning,1-Feb-25,29,Abuja (FCT),4G Router,Female,4,Very Good,8,25GB Monthly Plan,9000,1,9000,8432,Yes,Poor Customer Service,"Abuja (FCT) , Nigeria",100
+CUST0383,Kunle Manning,1-Feb-25,29,Abuja (FCT),5G Broadband Router,Female,4,Very Good,8,120GB Monthly Broadband Plan,24000,1,24000,3822,Yes,Poor Customer Service,"Abuja (FCT) , Nigeria",100
+CUST0408,Obinna Daniels,1-Feb-25,54,Anambra,Mobile SIM Card,Male,4,Very Good,43,1GB+1.5mins Daily Plan,500,18,9000,10872,Yes,High Call Tarriffs,"Anambra , Nigeria",100
+CUST0408,Obinna Daniels,1-Feb-25,54,Anambra,5G Broadband Router,Male,4,Very Good,43,30GB Monthly Broadband Plan,9000,2,18000,19054,Yes,High Call Tarriffs,"Anambra , Nigeria",100
+CUST0419,Boma Sanchez,1-Feb-25,20,Benue,4G Router,Male,1,Poor,18,65GB Monthly Plan,16000,16,256000,19278,Yes,Better Offers from Competitors,"Benue , Nigeria",100
+CUST0419,Boma Sanchez,1-Feb-25,20,Benue,5G Broadband Router,Male,1,Poor,18,30GB Monthly Broadband Plan,9000,3,27000,1154,Yes,Better Offers from Competitors,"Benue , Nigeria",100
+CUST0427,Chinedu West,1-Feb-25,69,Gombe,4G Router,Male,5,Excellent,26,10GB+10mins Monthly Plan,4500,6,27000,5273,Yes,Poor Network,"Gombe , Nigeria",100
+CUST0427,Chinedu West,1-Feb-25,69,Gombe,Broadband MiFi,Male,5,Excellent,26,30GB Monthly Broadband Plan,9000,14,126000,8051,Yes,Poor Network,"Gombe , Nigeria",100
+CUST0427,Chinedu West,1-Feb-25,69,Gombe,Mobile SIM Card,Male,5,Excellent,26,1GB+1.5mins Daily Plan,500,12,6000,3028,Yes,Poor Network,"Gombe , Nigeria",100
+CUST0428,Amina Skinner,1-Feb-25,31,Lagos,4G Router,Female,4,Very Good,50,25GB Monthly Plan,9000,16,144000,5795,Yes,High Call Tarriffs,"Lagos , Nigeria",100
+CUST0445,Ejiro Wagner,1-Feb-25,66,Abia,4G Router,Male,1,Poor,9,65GB Monthly Plan,16000,5,80000,4224,Yes,Better Offers from Competitors,"Abia , Nigeria",100
+CUST0447,Grace Hudson,1-Feb-25,76,Kano,Broadband MiFi,Female,2,Fair,38,30GB Monthly Broadband Plan,9000,14,126000,2098,Yes,Better Offers from Competitors,"Kano , Nigeria",100
+CUST0447,Grace Hudson,1-Feb-25,76,Kano,4G Router,Female,2,Fair,38,165GB Monthly Plan,35000,19,665000,1698,Yes,Better Offers from Competitors,"Kano , Nigeria",100
+CUST0450,Fatima Curtis,1-Feb-25,52,Katsina,Mobile SIM Card,Female,2,Fair,9,12.5GB Monthly Plan,5500,7,38500,6108,Yes,Fast Data Consumption,"Katsina , Nigeria",100
+CUST0454,Tunde Fuller,1-Feb-25,47,Taraba,5G Broadband Router,Female,1,Poor,19,60GB Monthly Broadband Plan,14500,17,246500,3075,Yes,High Call Tarriffs,"Taraba , Nigeria",100
+CUST0454,Tunde Fuller,1-Feb-25,47,Taraba,Mobile SIM Card,Female,1,Poor,19,20GB Monthly Plan,7500,5,37500,15755,Yes,High Call Tarriffs,"Taraba , Nigeria",100
+CUST0479,Ejiro Stewart,1-Feb-25,20,Akwa Ibom,Mobile SIM Card,Female,1,Poor,58,16.5GB+10mins Monthly Plan,6500,18,117000,9906,Yes,Better Offers from Competitors,"Akwa Ibom , Nigeria",100
+CUST0479,Ejiro Stewart,1-Feb-25,20,Akwa Ibom,Broadband MiFi,Female,1,Poor,58,150GB FUP Monthly Unlimited,20000,19,380000,13214,Yes,Better Offers from Competitors,"Akwa Ibom , Nigeria",100
+CUST0479,Ejiro Stewart,1-Feb-25,20,Akwa Ibom,4G Router,Female,1,Poor,58,10GB+10mins Monthly Plan,4500,5,22500,1354,Yes,Better Offers from Competitors,"Akwa Ibom , Nigeria",100
+CUST0494,Halima Martin,1-Feb-25,21,Benue,4G Router,Female,3,Good,51,165GB Monthly Plan,35000,3,105000,4224,Yes,High Call Tarriffs,"Benue , Nigeria",100
+CUST0494,Halima Martin,1-Feb-25,21,Benue,5G Broadband Router,Female,3,Good,51,1.5TB Yearly Broadband Plan,150000,20,3000000,1583,Yes,High Call Tarriffs,"Benue , Nigeria",100
+CUST0500,Oghene Hamilton,1-Feb-25,67,Kebbi,4G Router,Male,4,Very Good,31,165GB Monthly Plan,35000,15,525000,14464,Yes,High Call Tarriffs,"Kebbi , Nigeria",100
+CUST0500,Oghene Hamilton,1-Feb-25,67,Kebbi,Mobile SIM Card,Male,4,Very Good,31,7GB Monthly Plan,3500,11,38500,15849,Yes,High Call Tarriffs,"Kebbi , Nigeria",100
+CUST0500,Oghene Hamilton,1-Feb-25,67,Kebbi,Broadband MiFi,Male,4,Very Good,31,150GB FUP Monthly Unlimited,20000,14,280000,8604,Yes,High Call Tarriffs,"Kebbi , Nigeria",100
